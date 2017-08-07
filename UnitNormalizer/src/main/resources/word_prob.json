@@ -1,0 +1,31 @@
+[
+  {
+    "index": "146",
+    "equation": "(6.0*m)+-2.0 = 0, (-3.0*24.0*m)+n = 0",
+    "question": "You find that your watch gains 2 minute in 6 hour . How much will it gain in 3 day ?",
+    "template": "(a*m)+-b = 0, (-c*24.0*m)+n = 0"
+  },
+
+  {
+    "index": "284", 
+    "equation": "(2.0*m)+-1.0 = 0, (-1.0*60.0*m)+n = 0", 
+    "question": "When juggling one ball travels in a complete circle every 2 seconds. How many circles does it make in one minute?", 
+    "template": "(a*m)+-b = 0, (-c*60.0*m)+n = 0"
+  }
+  ,
+  {
+    "index": "189",
+    "equation": "(12.0*m)+-24.0 = 0, (-2.0*m)+n = 0",
+    "question": "Shawna reduced the size of a rectangle to a height of 2 in . What is the new width if it was originally 24 in wide and 12 in tall?",
+    "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  }
+  ,
+  {
+    "index": "201",
+    "equation": "(42.9*m)+-32.5 = 0, (-3.3*m)+n = 0",
+    "question": "Mary reduced the size of a painting to a width of 3.3 in . What is the new height if it was originally 32.5 in tall and 42.9 in wide?",
+    "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  }
+ 
+
+]
