@@ -10,6 +10,7 @@ public class UnitIdentifier {
 
     String [] lengthUnit= {"m","dm","cm","km","in"};
     String [] timeUnit={"hour","second","minute", "day"};
+    String [] finantialUnit={"cent","cents","dollars","dollar","unitedstatedollar"};
 
 
     public Unit getBaseUnit(Unit unit){
@@ -17,10 +18,9 @@ public class UnitIdentifier {
             return OM.SecondTime;
         }else if(Arrays.asList(lengthUnit).contains(unit.getSymbol())){
             return OM.Metre;
-
+        }else if(Arrays.asList(finantialUnit).contains(unit.getName())){
+            return OM.UnitedStatesDollar;
         }
-
-
 
         return null;
     }

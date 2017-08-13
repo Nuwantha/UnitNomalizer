@@ -4,6 +4,7 @@ import nl.wur.fbr.om.exceptions.UnitOrScaleCreationException;
 import nl.wur.fbr.om.factory.InstanceFactory;
 import nl.wur.fbr.om.model.UnitAndScaleSet;
 import nl.wur.fbr.om.model.measures.Measure;
+import nl.wur.fbr.om.model.units.SingularUnit;
 import nl.wur.fbr.om.model.units.Unit;
 import nl.wur.fbr.om.om18.set.OM;
 import org.json.simple.JSONArray;
@@ -28,11 +29,15 @@ public class UnitConverter {
 
 
     public JSONArray createdModifiedJsonArray(JSONArray jsonArray) throws UnitOrScaleCreationException, ConversionException {
-
+        System.out.println(jsonArray.size());
         JSONArray modifiedJsonArray = new JSONArray();
+
+        int j=0;
         for (Object jsonObject : jsonArray) {
+            System.out.println(j);
             JSONObject modifiedJsonObject = createModifiedQuestion((JSONObject) jsonObject);
             modifiedJsonArray.add(modifiedJsonObject);
+            j++;
         }
         return modifiedJsonArray;
     }
@@ -44,15 +49,16 @@ public class UnitConverter {
         UnitIdentifier unitIdentifier = new UnitIdentifier();
         String question = (String)jsonObject.get("question");
         System.out.println(question);
-        String[] tokens = question.split(" ");
+        String[] tokens = getTokenList(question);
         String modifiedQuestion="";
         int i=0;
 
         Set<Unit> allUnits = addUnitAndScaleSet.getAllUnits();
 
         for (String token : tokens) {
-            if( pattern.matcher(token).find()){
+            if( pattern.matcher(token).find() && i< tokens.length-1){
                 String isUnit = tokens[i+1];
+
                 Unit unit=null;
                 Unit baseUnit = null;
                 ArrayList<Unit> unitList = isUnit(isUnit, allUnits);
@@ -60,9 +66,14 @@ public class UnitConverter {
                     unit=unitList.get(0);
                     baseUnit = unitList.get(1);
                 }
-                if(unit != null){
+                if(unit != null && unit.getSymbol().equals("%")){
+                    SingularUnit percentage=(SingularUnit)unit;
+                    tokens[i]=String.valueOf(percentage.getDefinitionNumericalValue()*Double.parseDouble(token));
+                    System.out.println(tokens[i]);
+                    tokens[i+1]="";
+                }else if(unit != null && baseUnit!=null){
                     System.out.println("location");
-                    Measure m1= factory.createScalarMeasure(Double.parseDouble(token),unit);
+                    Measure m1= factory.createScalarMeasure(Double.parseDouble(token.replace(",","")),unit);
                     Measure m2 = factory.convertToUnit(m1,baseUnit);
                     tokens[i]=String.valueOf(m2.getScalarValue());
                     System.out.println(tokens[i]);
@@ -74,7 +85,7 @@ public class UnitConverter {
             modifiedQuestion+=" "+tokens[i];
             i++;
 
-        }
+       }
 
         System.out.println("modified question "+ modifiedQuestion);
 
@@ -114,11 +125,45 @@ public class UnitConverter {
                 baseUnit = new UnitIdentifier().getBaseUnit(unit);
                 unitList.add(foundUnit);
                 unitList.add(baseUnit);
-                System.out.println("unit is found");
+                System.out.println("unit is found  "+foundUnit.getName());
                 break;
             }
 
         }
         return unitList;
     }
+
+    public String removeFunctuationMarks(String token){
+        if(token.endsWith(".") || token.endsWith("?")){
+            String modifiedToken=token.substring(0,token.length()-1);
+            System.out.println(modifiedToken);
+            return modifiedToken;
+        }
+        return token;
+
+    }
+
+    public String [] getTokenList(String question){
+        ArrayList<String> modifiedTokens = new ArrayList<String>();
+
+        String[] oldTokens = question.split(" ");
+
+        for (String token:oldTokens){
+            if(token.endsWith(".") || token.endsWith("?")){
+                modifiedTokens.add(token.substring(0,token.length()-1));
+                modifiedTokens.add(token.substring(token.length()-1,token.length()));
+            }else {
+                modifiedTokens.add(token);
+            }
+
+        }
+        String []modifiedTokensArray=new String[modifiedTokens.size()];
+        for (int i=0;i<modifiedTokens.size();i++){
+            modifiedTokensArray[i]=modifiedTokens.get(i);
+        }
+
+
+        return modifiedTokensArray;
+    }
+
 }

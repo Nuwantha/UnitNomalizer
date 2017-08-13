@@ -1,31 +1,3086 @@
 [
   {
-    "index": "146",
-    "equation": "(6.0*m)+-2.0 = 0, (-3.0*24.0*m)+n = 0",
-    "question": "You find that your watch gains 2 minute in 6 hour . How much will it gain in 3 day ?",
-    "template": "(a*m)+-b = 0, (-c*24.0*m)+n = 0"
+    "index": "2598",
+    "equation": "(3.0*m)+(-5.0*n) = 0, -24.0+m+n = 0",
+    "question": "A writing workshop enrolls novelists and poets in a ratio of 5 to 3. There are 24 people at the workshop. How many novelists are there? How many poets are there?",
+    "template": "(a*m)+(-b*n) = 0, -c+m+n = 0"
   },
-
   {
-    "index": "284", 
-    "equation": "(2.0*m)+-1.0 = 0, (-1.0*60.0*m)+n = 0", 
-    "question": "When juggling one ball travels in a complete circle every 2 seconds. How many circles does it make in one minute?", 
-    "template": "(a*m)+-b = 0, (-c*60.0*m)+n = 0"
-  }
-  ,
+    "index": "1695",
+    "equation": "(4.0*m)+(6.0*n)+-2876.0 = 0, -525.0+m+n = 0",
+    "question": "You are selling tickets for a high school play. Student tickets cost 4 dollars and general admission tickets cost 6 dollars. You sell 525 tickets and collect 2876 dollars. How many student tickets and general admission tickets did you sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
   {
-    "index": "189",
-    "equation": "(12.0*m)+-24.0 = 0, (-2.0*m)+n = 0",
-    "question": "Shawna reduced the size of a rectangle to a height of 2 in . What is the new width if it was originally 24 in wide and 12 in tall?",
+    "index": "2575",
+    "equation": "(10.5*m)+(8.5*n)+-93.0 = 0, -10.0+m+n = 0",
+    "question": "A store is selling compact discs for 10.50 dollars and 8.50 dollars. You buy 10 discs and spend a total of 93 dollars. How many compact discs did you buy that cost 10.50 dollars? How many did you buy that cost 8.50 dollars?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1075",
+    "equation": "(0.07*m)+(0.06*n)+-405.0 = 0, -6100.0+m+n = 0",
+    "question": "Bob invested 6100 dollars in 2 funds , which pay 7 % and 6 % simple interest respectively. The combined interest he earned for both funds was 405 dollars for one year. How many dollars was invested at 7 % ? How much was invested at 6 % ?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "267",
+    "equation": "(2.0*m)+(4.0*n)+-100.0 = 0, -40.0+m+n = 0",
+    "question": "Your teacher is giving you a test worth 100 points and containing 40 questions. There are 2 point and 4 point questions on the test. How many two point questions are there? How many 4 point questions?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2089",
+    "equation": "160.0+(7.0*m)+-210.0+(-5.0*m) = 0",
+    "question": "You have 160 dollars and save 7 dollars per week. Your friend has 210 dollars and saves 5 dollars per week. After how many weeks will each of you have saved the same amount of money?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "5154",
+    "equation": "(12.0*m)+(5.0*n)+-519.0 = 0, -80.0+m+n = 0",
+    "question": "A theater has 80 seats. On opening night , they sold out , selling adult tickets for 12 dollars each and child tickets for 5 dollars each. If they made a total of 519 dollars , how many child tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6952",
+    "equation": "(2.0*m)+-4.0+-n = 0, -20.0+m+n = 0",
+    "question": "A 20-foot board is cut into 2 pieces. Twice the length of the shorter piece is 4 feet more than the length of the longer piece. Find the length of the shorter piece.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5131",
+    "equation": "-234.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "You are traveling to your mothers house that is 234 miles away. If you are currently twice as far from your house as you are from your mothers house how far have you traveled? Round to the nearest tenth mile.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "5874",
+    "equation": "(5.5*m)+(4.25*n)+(-4.6*40.0) = 0, -40.0+m+n = 0",
+    "question": "Colombian coffee beans cost 5.50 dollars per pound, while Peruvian coffee beans cost 4.25 dollars per pound. We want to mix the beans together so as to produce a 40-pound bag , costing 4.60 dollars per pound. How many pounds of Columbian beans and how many pounds of Peruvian beans should be used?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6370",
+    "equation": "(0.05*m)+(0.07*n)+-630.0 = 0, -10000.0+m+n = 0",
+    "question": "A total of 10000 dollars is invested in 2 funds paying 5 % and 7 % annual interest. The combined annual interest is 630 dollars. How much of the 10000 dollars is invested at 5 %? How much at 7 % ?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3240",
+    "equation": "23.36+-2.0+(-0.12*m) = 0",
+    "question": "For his long distance phone service Milan pays a 2 dollars monthly fee plus 12 cents per minute. Last month , Milan 's long distance bill was 23.36 dollars. For how many minutes was Milan billed for?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5073",
+    "equation": "(1.5*m)+-250.0 = 0, (-3.5*m)+n = 0",
+    "question": "The maximum load that a horizontal beam can carry is directly proportional to its width. If a beam 1.5 inches wide can support a load of 250 pounds , find the load that a beam of the same type can support if its width is 3.5 inches?",
     "template": "(a*m)+-b = 0, (-c*m)+n = 0"
-  }
-  ,
+  },
   {
-    "index": "201",
-    "equation": "(42.9*m)+-32.5 = 0, (-3.3*m)+n = 0",
-    "question": "Mary reduced the size of a painting to a width of 3.3 in . What is the new height if it was originally 32.5 in tall and 42.9 in wide?",
+    "index": "6238",
+    "equation": "(0.15*m)+(0.4*n)+(-0.25*30.0) = 0, -30.0+m+n = 0",
+    "question": "A chemist needs to make 30 ounces of a 25 % alcohol solution by mixing together a 15 % alcohol solution with a 40 % alcohol solution. How many ounces of the 15 % solution should he use? How many ounces of the 40 % solution?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5077",
+    "equation": "(-16000.0/0.8)+m = 0",
+    "question": "The value of a sport utility vehicle this year is 16,000 dollars , which is 0.8 of what its value was last year. Find the value of the vehicle last year.",
+    "template": "(-a/b)+m = 0"
+  },
+  {
+    "index": "1675",
+    "equation": "(0.25*m)+(0.5*n)+(-0.45*1000.0) = 0, -1000.0+m+n = 0",
+    "question": "Arianne is mixing a solution for Chemistry class. She has a 25 % copper solution and a 50 % copper solution. How many milliliters of the 25 % solution and 50 % solution should she mix to make 1000 milliliters of a 45 % solution?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3394",
+    "equation": "(2.0*m)+-43.0+-n = 0, -50.0+m+n = 0",
+    "question": "The sum of 2 numbers is 50. The first number is 43 less than twice the second number. Find the smaller number. Find the larger number.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "1106",
+    "equation": "(10.0*m)+(11.0*n)+-246.0 = 0, -23.0+m+n = 0",
+    "question": "Adult tickets for a play cost 11 dollars and the child tickets cost 10 dollars. If there were 23 people at a performance and the theater collected 246 dollars from tickets sales , how many children attended the play? How many adults attended the play?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "158",
+    "equation": "(3.0*m)+-2.0+-n = 0, -82.0+m+n = 0",
+    "question": "The Kings won two less than three times as many games as they lost. They played 82 games. How many wins and losses did the team have?",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "6521",
+    "equation": "(0.06*m)+(0.14*n)+(-0.12*50.0) = 0, -50.0+m+n = 0",
+    "question": "Find the amount of 6 percent acid solution and the amount of a 14 percent acid solution that Pat should combine to prepare 50 cubic-centimeters of 12 percent solution.",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2493",
+    "equation": "(42.0*m)+(30.0*n)+-18600.0 = 0, -500.0+m+n = 0",
+    "question": "The Johnson Farm has 500 acres of land allotted for cultivating corn and wheat. The cost of cultivating corn and wheat is 42 dollars for corn and 30 dollars for wheat. Mr.Johnson has 18,600 dollars available for cultivating these crops. If he used all the land and entire budget , how many acres of corn and how many acres of wheat should he plant?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6779",
+    "equation": "500.0+-190.0+(-0.04*m) = 0",
+    "question": "Trenton sells electronic supplies. Each week he earns 190 dollars plus commission equal to 4 % of his sales. This week his goal is to earn no less than 500 dollars. Write and solve an inequality to find the amount of sales he must make to reach his goal.",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5955",
+    "equation": "-12.0+-m+n = 0, -68.0+m+n = 0",
+    "question": "A 68-foot pipe is cut into 2 pieces , one of which is 12 feet less than the other. What is the length of the shorter piece in feet?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "1444",
+    "equation": "(0.02*m)+(0.27*n)+(-0.249*100.0) = 0, -100.0+m+n = 0",
+    "question": "Anne and Nancy use a metal alloy that is 24.9 % copper to make jewelry. How many ounces of a 20 % alloy must be mixed with a 27 % alloy to form 100 ounces of the desired alloy?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7364",
+    "equation": "(6.0*m)+(6.5*n)+-56.0 = 0, -9.0+m+n = 0",
+    "question": "Nine books are to be bought by a student. Some cost 6 dollars each and the remainder cost 6.50 dollars each. The total amount spent was 56 dollars. How many 6-dollar books were sold? How many 6.50-dollar books were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "428",
+    "equation": "(7.0*m)+(9.0*n)+-225.0 = 0, -29.0+m+n = 0",
+    "question": "The Booster Club voted on where they would go for their annual trip. A majority of the club voted to go to a baseball game. They bought 29 tickets. Some of the tickets cost 7 dollars per ticket and some cost 9 dollars per ticket. All of the tickets cost 225 dollars. How many 7-dollar tickets did they buy? How many 9-dollar tickets did they buy?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5454",
+    "equation": "(2.0*m)+(-3.0*n) = 0, -15000.0+m+n = 0",
+    "question": "Kay spends 250 minutes per week exercising. Her ratio of time spent on aerobics to time spent on weight training is 3 to 2. How many minutes per week does she spend on aerobics? How many minutes per week does she spend on weight training?",
+    "template": "(a*m)+(-b*n) = 0, -c+m+n = 0"
+  },
+  {
+    "index": "2371",
+    "equation": "-4.0+-m+n = 0, -64.0+m+n = 0",
+    "question": "Find 2 numbers whose sum is 64 and whose difference is 4. What is the smaller number? What is the larger number?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6373",
+    "equation": "(1.5*m)+(0.5*n)+-78.5 = 0, -87.0+m+n = 0",
+    "question": "You are running a concession stand. You are selling hot dogs and soda. Each hot dog costs 1.50 dollars and each soda costs 0.50 dollars. You made a total of 78.50 dollars. You sold a total of 87 hot dogs and sodas combined. You must report the number of hot dogs and sodas sold. How many hot dogs and sodas were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5272",
+    "equation": "(0.6667*m)+-10.0+(-0.25*m) = 0",
+    "question": "Find a number so that 10 less than 0.6667 the number is 0.25 the number.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "116",
+    "equation": "(3.0*m)+(4.0*n)+-4.91 = 0, (5.0*m)+(6.0*n)+-7.59 = 0",
+    "question": "On Monday , Harold picked up three doughnuts and four large coffees for the office staff. He paid 4.91 dollars. On Tuesday Melinda picked up five doughnuts and six large coffees for the office staff. She paid 7.59 dollars. What is the cost of one doughnut? What is the cost of one large coffee?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "5043",
+    "equation": "(3.0*m)+(2.0*n)+-200.0 = 0, -20.0+-m+n = 0",
+    "question": "A semi truck travels on a paved road for 2 hours at an average speed of 20 miles per hour faster than it travels on a dirt road. The time spent on the dirt is 3 hours. If the entire trip is 200 miles , how fast is the truck traveling on the dirt road?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "1962",
+    "equation": "(1.0*m)+(2.0*n)+-60.0 = 0, -9.0+-m+n = 0",
+    "question": "Hockey teams receive 2 points for a win and 1 point for a tie. The wild cats once won a championship with 60 points. They won 9 more games than they tied. How many wins and how many ties did the Wildcats have?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "3560",
+    "equation": "-84.0+m+n = 0, (-3.0*m)+n = 0",
+    "question": "The sum of 2 numbers is 84. One number is 3 times the other. Find the smaller number. Find the larger number.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "6094",
+    "equation": "(9.0*m)+(11.0*n)+-20960.0 = 0, -2000.0+m+n = 0",
+    "question": "Tickets for a concert were priced at 9 dollars for students and 11 dollars for non-students. There were 2,000 tickets sold for a total of 20,960 dollars. How many student ticket were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5892",
+    "equation": "(4.0*m)+(6.0*m)+-3.0 = 0",
+    "question": "Mary began walking home from school , heading south at a rate of 4 miles per hour. Sharon left school at the same time heading north at 6 miles per hour. How long will it take for them to be 3 miles apart?",
+    "template": "(a*m)+(b*m)+-c = 0"
+  },
+  {
+    "index": "5540",
+    "equation": "(133.0*m)+-26.6 = 0, (-136.0*m)+n = 0",
+    "question": "The weight of an object on the moon varies directly to its weight on earth. A person who weights 133 pounds on earth weighs 26.6 pounds on the moon. How many pounds would a 136-pound person weigh on the moon?",
     "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  },
+  {
+    "index": "5947",
+    "equation": "(5.0*m)+(20.0*n)+-780.0 = 0, -54.0+m+n = 0",
+    "question": "A bank teller has 54 5-dollar and 20-dollar bills in her cash drawer. The value of the bills is 780 dollars. How many 5 dollars bills are there?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2102",
+    "equation": "(0.11*m)+(0.05*n)+-740.0 = 0, -10000.0+m+n = 0",
+    "question": "A total of 10,000 dollars was invested in two bond mutual funds , a junk bond fund and a government bond fund. The junk fund is risky and yields 11 % interest. The safer government bond fund yields only 5 %. The year 's total income from the two investments was 740 dollars. How much was invested in each fund?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2866",
+    "equation": "125.0+(2.75*m)+-140.0+(-1.5*m) = 0",
+    "question": "A student is pricing 2 different picture packages. John 's Photo World charges 2.75 dollars per sheet and a one time sitting fee of 125 dollars. Sam 's Picture Emporium charges 1.50 dollars per sheet and a one time sitting fee of 140 dollars. For how many sheets of pictures do the 2 companies charge the same amount?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "6072",
+    "equation": "(20.0*m)+-1500.0+(-3.0*m) = 0",
+    "question": "Suppose you invest 1,500 dollars in equipment to put pictures on T-shirts. You buy each T-shirt for 3 dollars. After you have placed the pictures on a shirt , you sell it for 20 dollars. How many T-shirts must you sell to break even?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "7086",
+    "equation": "(69.0*m)+(35.0*n)+-2814.0 = 0, -70.0+-m+n = 0",
+    "question": "Norman and Suzanne Scarpulla own 35 shares of Mcdonald 's stocks and 69 shares of the Ohio Art Company stock. On a particular day in 2011 , their stock portfolio consisting of these two stocks was worth 2,814 dollars. The Mcdonalds stock was 70 dollars more per share than the Ohio Art Company stock. What was the price of McDonalds stock on that day? What was the cost of the Ohio Art Company stock on that day?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "5133",
+    "equation": "(2.0*m)+(2.0*n)+-36.0 = 0, -6.0+-m+n = 0",
+    "question": "The difference between two numbers is 6. If you double both numbers , the sum is 36. Find the two numbers.",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "7021",
+    "equation": "-20.0+-m+n = 0, -48.0+m+n = 0",
+    "question": "The difference between two numbers is 20 and their sum is 48. Find the numbers.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2561",
+    "equation": "46.12+-29.0+(-0.08*m) = 0",
+    "question": "A car rented for 29 dollars per day plus 0.08 dollars per mile. Julia paid 46.12 dollars for a 1-day rental. How far did she drive , in miles?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "3869",
+    "equation": "(6.0*m)+(4.0*n)+-104.0 = 0, -21.0+m+n = 0",
+    "question": "You sell tickets for admission to your school play and collect a total of 104 dollars. Admission prices are 6 dollars for adults and 4 dollars for children. You sold 21 tickets. How many adult tickets did you sell? How many children 's tickets did you sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5191",
+    "equation": "(0.6*m)+(0.9*n)+-32.4 = 0, -180000.0+m+n = 0",
+    "question": "A worker gets 60 cents an hour for ordinary time and 90 cents an hour for overtime. If she gets 32.40 dollars for a 50 hour week , how many hours are overtime?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3542",
+    "equation": "(8.0*m)+(15.0*n)+-300.0 = 0, -25.0+m+n = 0",
+    "question": "A student works 2 part-time jobs. He earns 8.00 dollars an hour working at the college library and 15.00 dollars and hour for construction work. To save time for study , be limits his work to 25 hours a week. If he enjoys the work at the library more , how many hours can he work at the library and still earn at 300 dollars a week?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7135",
+    "equation": "(2.0*m)+(5.0*n)+-125.0 = 0, -40.0+m+n = 0",
+    "question": "There are some 2-dollar coins and some 5-dollar coins. There are 40 coins , which give a total amount of 125 dollars. How many 2-dollar coins are there? How many 5-dollar coins are there?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5872",
+    "equation": "(35.0*m)+(60.0*n)+-14000.0 = 0, -260.0+m+n = 0",
+    "question": "At a hotel one night , 260 rooms were booked. Some were single rooms and some were double rooms. The single rooms cost 35 dollars each and the double rooms cost 60 dollars. The hotel made 14000 dollars that night. How many single rooms and double rooms were booked?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7022",
+    "equation": "(0.5*m)+-10.0+(-0.1667*m) = 0",
+    "question": "0.5 of a certain number is 10 more than 0.1667 of a number. Find the number.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5765",
+    "equation": "(0.75*m)+(0.5*n)+(-0.65*1.0) = 0, -1.0+m+n = 0",
+    "question": "One gallon container is full of a 75 % alcohol solution. How much must be drained off and replaced by a 50 % alcohol solution to produce one gallon of 65 % alcohol solution?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2199",
+    "equation": "(0.03*m)+(0.04*n)+-550.0 = 0, -15000.0+m+n = 0",
+    "question": "An investor will invest a total of 15000 dollars in 2 accounts , one paying 4 % annual simple interest and the other 3 %. If he wants to earn 550 dollars annual interest , how much should he invest at 4 %? How much at 3 %?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1379",
+    "equation": "(0.04*m)+(0.18*n)+-1380.0 = 0, -17000.0+m+n = 0",
+    "question": "Stan invested 17,000 dollars , part at 18 % and part at 4 %. If the total interest at the end of the year is 1,380 dollars , how much did he invest at 18 %? How much at 4 %?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3246",
+    "equation": "(5.0*m)+(3.0*n)+-84.0 = 0, -20.0+m+n = 0",
+    "question": "Red cards are worth 3 credits , while blue cards are worth 5 credits. You need any combination of 20 cards to play a game. With 84 credits to buy cards , how many blue cards will you have when you play? how many red cards will you have when you play?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6951",
+    "equation": "(2.0*m)+(4.5*n)+-60.0 = 0, -20.0+m+n = 0",
+    "question": "Ron and Kathy are ticket-sellers , Ron handling student tickets that sell for 2.00 dollars each and Kathy selling adult tickets for 4.50 dollars each. If their total income for 20 tickets was 60.00 dollars , how many did Ron sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2020",
+    "equation": "(1.5*m)+(1.5*n)+-19.5 = 0, -3.0+-m+n = 0",
+    "question": "Juan and Peter both leave a shopping center at the same time going in opposite directions. Juan is on his bike and travels 3 miles per hour faster than Peter who is on his skateboard. After 1.5 hours they are 19.5 miles apart. How fast does Peter travel?",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "6759",
+    "equation": "(-65.0/2.5)+m = 0",
+    "question": "An ice skating rink charges 5 dollars for admission and 2.50 dollars to rent skates. Jill can purchase a new pair of skates for 65 dollars. How many times would she need to go the rink to justify buying the skates rather than renting a pair?",
+    "template": "(-a/b)+m = 0"
+  },
+  {
+    "index": "5761",
+    "equation": "(6.0*m)+(3.0*n)+-360.0 = 0, -100.0+m+n = 0",
+    "question": "Pencils cost 6 dollars per carton and erasers cost 3 dollars per carton. If an order comes in for a total of 100 cartons for 360 dollars , what was the specific number of cartons of pencils?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6014",
+    "equation": "-64.0+-m+n = 0, -106.0+m+n = 0",
+    "question": "Find two numbers whose sum is 106 and whose difference is 64.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "1948",
+    "equation": "(0.09*m)+(0.08*n)+-770.0 = 0, -9000.0+m+n = 0",
+    "question": "Walt made an extra 9000 dollars last year from a part-time job. He invested part of the money at 9 % and the rest at 8 %. He made a total of 770 dollars in interest. How much was invested at 8 %?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2086",
+    "equation": "(0.5*m)+-2.0+(-0.25*m) = 0",
+    "question": "0.5 of a number is 2 more than 0.25 of the number. Find the number.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "2057",
+    "equation": "(20.25*m)+-35630.0+(-11.5*m) = 0",
+    "question": "A small publishing company is planning to publish a new book. The production costs will include one-time fixed costs and variable costs. The one-time fixed costs will amount to 35,630 dollars. The variable costs will be 11.50 dollars per book. The publisher will sell the finished product to bookstores at a price of 20.25 dollars per book. How many books must the publisher print and sell so that the production costs will equal the money obtained from sales?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "1119",
+    "equation": "76.0+-30.0+(-0.23*m) = 0",
+    "question": "A car rents for 30 dollars per day plus 23 cents per mile. You are on a daily budget of 76 dollars. What mileage can you go and stay within your budget?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5878",
+    "equation": "(140.0*m)+(90.0*n)+-3950.0 = 0, -35.0+m+n = 0",
+    "question": "An employment agency specializing in temporary construction help pays heavy equipment operators 140 dollars per day and general laborers 90 dollars per day. If 35 people were hired and the payroll was 3950 dollars , how many heavy equipment operators were employed? How many laborers were employed?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7126",
+    "equation": "(2.0*m)+-5.0+-n = 0, -85.0+m+n = 0",
+    "question": "The sum of two numbers is 85. The difference of twice of one of them and the other one is 5. Find both numbers.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5164",
+    "equation": "(5.0*m)+-3.5 = 0, (-7.0*m)+n = 0",
+    "question": "A 5-pound bag of apples costs 3.50 dollars. At the same rate , what would be the cost of 7 pounds of apples in dollars?",
+    "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  },
+  {
+    "index": "6831",
+    "equation": "-30.0+(-0.5*m)+n = 0, -150.0+m+n = 0",
+    "question": "Flying with the wind , a bird was able to make 150 kilometers per hour. If the wind was 0.5 times as strong and the bird flies against it , it could make only 30 kilometers per hour. Find the velocity of the wind in kilometers per hour. Find the velocity of the bird.",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "576",
+    "equation": "95.74+-20.99+(-0.25*m) = 0",
+    "question": "Michael rented a truck for one day. There was a rental fee of 20.99 dollars , and there also was a charge of 25 cents for each mile. Michael paid 95.74 dollars when he returned the truck. For how many miles did he drive the truck?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "7134",
+    "equation": "(5.0*m)+(7.0*n)+-839.0 = 0, -127.0+m+n = 0",
+    "question": "They charged 7 dollars for adults and 5 dollars for children. 127 adults and children attended , and 839 dollars was made from ticket sales. How many children and adults went to the film premiere?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5752",
+    "equation": "(10.0*m)+(15.0*n)+-855.0 = 0, -65.0+m+n = 0",
+    "question": "A local bus tour sold 65 tickets. Senior citizen tickets cost 10 dollars and regular tickets cost 15 dollars. The total sales were 855 dollars. How many senior citizen tickets were sold? How many regular tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3526",
+    "equation": "29.0+-4.0+(-5.0*m) = 0",
+    "question": "Tony planted a 4 foot tree. The tree grows at a rate of 5 feet every year. How many years will it take to be 29 feet?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "3174",
+    "equation": "41.95+(0.29*m)+-38.95+(-0.31*m) = 0",
+    "question": "Safety Rent A Truck costs 41.95 dollars plus 0.29 dollars per mile. City Rentals rents the truck for 38.95 dollars plus 0.31 dollars per mile. For what mileage are the costs the same?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "6522",
+    "equation": "(325.0*m)+(275.0*m)+-2100.0 = 0",
+    "question": "A plane travels due East at 325 miles per hour and another plane travels due west at 275 miles per hour. If they leave at the same time , and from the same place , in how many hours will they be 2100 miles apart?",
+    "template": "(a*m)+(b*m)+-c = 0"
+  },
+  {
+    "index": "1583",
+    "equation": "(2.0*m)+--8.0+--12.0 = 0",
+    "question": "The difference between 2 times a number and -8 is -12. Find the number.",
+    "template": "(a*m)+-b+-c = 0"
+  },
+  {
+    "index": "1558",
+    "equation": "(10.0*m)+-15.0 = 0, (-25.0*m)+n = 0",
+    "question": "A painting is 10 inches tall and 15 inches wide. A print of the painting is 25 inches tall , how wide is the print in inches?",
+    "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  },
+  {
+    "index": "2517",
+    "equation": "(0.01*m)+(0.05*n)+-22.5 = 0, -400.0+m+n = 0",
+    "question": "Colored copies cost 10 cents per copy and white copies cost 5 cents per copy. Sandy made 400 copies , some of which were colored and the rest white. Her total bill was 22.50 dollars. How many colored copies and white copies did she make?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3200",
+    "equation": "-40000.0+m+n = 0, (-15.0*m)+n = 0",
+    "question": "In college there are 15 times as many students as professors. If together the students and professors number 40,000 , how many students are there in college?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "2010",
+    "equation": "(0.02*m)+(0.25*n)+-220.0 = 0, -1000.0+m+n = 0",
+    "question": "At its Grand Opening , the Guthrie Market distributed two different types of souvenirs. One type cost 20 cents each , and the other type cost 25 cents each. One thousand souvenirs were distributed in all. If the cost of these souvenirs was 220 dollars. How many of 20 cents and 25 cents souveniers were distributed?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3354",
+    "equation": "(0.5*m)+(1.5*n)+-206.5 = 0, -193.0+m+n = 0",
+    "question": "193 tickets were sold for the Class of 2003 ice cream picnic. Each student ticket costs 0.50 dollars each , and each non-student ticket costs 1.50 dollars each. A total of 206.50 dollars was collected. How many student tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2393",
+    "equation": "-600.0+m+n = 0, (-3.0*m)+n = 0",
+    "question": "A washer and a dryer cost 600 dollars combined. The price of the washer is 3 times the price of the dryer. What is the cost of the dryer?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "1140",
+    "equation": "(14.0*m)+(12.0*n)+-8390.0 = 0, -605.0+m+n = 0",
+    "question": "Tickets for a ballet performance cost 14 dollars for adults and 12 dollars for students. If total receipts from the sale of 605 tickets were 8,390.00 dollars , how many adult tickets were sold? How many student tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2649",
+    "equation": "(0.6*m)+(1.0*n)+-10.0 = 0, -12.0+m+n = 0",
+    "question": "Apples cost 0.60 dollars per pound and grapes cost 1.00 dollars per pound. Jenny bought 12 pounds of fruit and paid 10.00 dollars. How many pounds of apples did she buy? How many pounds of grapes?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3543",
+    "equation": "(2.0*m)+-7.0+(-3.0*m) = 0",
+    "question": "Three times a number is the same as the difference of twice the number and seven. Find the number.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "6027",
+    "equation": "(0.833*m)+--60.0 = 0",
+    "question": ".833 of a number is -60. What is the number?",
+    "template": "(a*m)+-b = 0"
+  },
+  {
+    "index": "3289",
+    "equation": "(2.0*m)+-1.0+-n = 0, -104.0+m+n = 0",
+    "question": "The sum of two numbers is 104. The larger number is 1 less than twice the smaller number. Find the numbers.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "123",
+    "equation": "20.0+-30.0+m = 0",
+    "question": "The sum of 20 and a number is 30.",
+    "template": "a+-b+m = 0"
+  },
+  {
+    "index": "3670",
+    "equation": "(5.0*m)+(3.0*n)+-54.0 = 0, -2.0+-m+n = 0",
+    "question": "3 times a number is added to 5 times a number to get 54. The second number is 2 less than the first. What is the smaller number? What is the larger number?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "2113",
+    "equation": "(0.6*m)+(0.75*n)+(-0.72*20.0) = 0, -20.0+m+n = 0",
+    "question": "How many liters of a 60 % acid solution must be mixed with a 75 % acid solution to get 20 liters of a 72 % solution?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2120",
+    "equation": "(4.0*m)+(3.0*n)+-5800.0 = 0, (8.0*m)+(7.0*n)+-12600.0 = 0",
+    "question": "A manufacturer produces two models of the same toy , Model A and Model B. Model A takes 4 hours to produce and costs 8 dollars each. Model B takes 3 hours to produce and costs 7 dollars each. If the manufacturer allots a total of 5800 hours and 12,600 dollars for production each week , how many of each model will be produced?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "823",
+    "equation": "(1.5*m)+(4.0*n)+-792.0 = 0, -278.0+m+n = 0",
+    "question": "An amusement park sells 2 kinds of tickets.  Tickets for children cost 1.50 dollars.  Adult tickets cost 4 dollars.  On a certain day , 278 people entered the park.  On that same day the admission fees collected totaled 792 dollars. How many children were admitted on that day? How many adults were admitted?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "4585",
+    "equation": "(0.2*m)+(0.33*n)+-12.6 = 0, -50.0+m+n = 0",
+    "question": "Post card stamps are 0.20 dollars each. Letter stamps cost 0.33 dollars each. If you have 50 stamps worth 12.60 dollars , how many post card stamps do you have? How many letter stamps?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7248",
+    "equation": "(3.5*m)+(6.0*n)+-133.5 = 0, -26.0+m+n = 0",
+    "question": "River Joes 's Seafood Diner charges 6.00 dollars for a catfish dinner and 3.50 dollars for an order of popcorn shrimp. After filling 26 orders , River Joe had collected 133.50 dollars. How many orders of popcorn shrimp and catfish dinners did they sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6882",
+    "equation": "(6.75*m)+(4.5*n)+-405.0 = 0, -20.0+-m+n = 0",
+    "question": "For a matinee , a movie theater charges 4.50 dollars for children and 6.75 dollars for adults. At today 's matinee , there are 20 more children than adults and the total receipts are 405 dollars. How many children are at today 's matinee?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "2488",
+    "equation": "-3.0+-m+n = 0, -13.0+m+n = 0",
+    "question": "The difference between two numbers is 3. Their sum is 13. Find the numbers. What is the larger number? What is the smaller number?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2211",
+    "equation": "(20.0*m)+(50.0*n)+-390.0 = 0, -15.0+m+n = 0",
+    "question": "Kerry asked a bank teller to cash a 390 dollars check using 20-dollar bills and 50-dollar bills. If the teller gave her a total of 15 bills , how many 20-dollar bills did she get? How many 50-dollar bills?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "4679",
+    "equation": "(12.0*m)+(10.0*n)+-9780.0 = 0, -900.0+m+n = 0",
+    "question": "A theater sold 900 tickets to a play. Floor seats cost 12 dollars each and balcony seats 10 dollars each. Total receipts were 9,780 dollars. How many floor seats were sold? How many balcony seats were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7491",
+    "equation": "(7.0*m)+(4.0*n)+-5100.0 = 0, -900.0+m+n = 0",
+    "question": "A movie theater charges 7 dollars for an adult and 4 dollars for a child 's ticket. One night , 900 tickets were sold for a total of 5,100 dollars. How many adult tickets were sold? How many child 's tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2941",
+    "equation": "(15.0*m)+(7.0*n)+-55.4 = 0, (12.0*m)+(10.0*n)+-61.7 = 0",
+    "question": "Eldora and Finn went to an office supply store together. Eldora bought 15 boxes of paper clips and 7 packages of index cards for a total cost of 55.40 dollars. Finn bought 12 boxes of paper clips and 10 packages of index cards for a total cost of 61.70 dollars. Find the cost of one box of paper clips and the cost of one package of index cards.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "5701",
+    "equation": "-2.0+(-3.0*m)+n = 0, -70.0+m+n = 0",
+    "question": "The sum of 2 numbers is 70. The larger number is 2 more than 3 times the smaller number. Find the smaller number. Find the larger number.",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "2239",
+    "equation": "(4.0*m)+(6.0*n)+-2340.0 = 0, -480.0+m+n = 0",
+    "question": "A high school sold gift wrap. The gift wrap in solid colors sold for 4.00 dollars per roll and the print gift wrap sold for 6.00 dollars per roll. The total number of rolls sold was 480 rolls , and the total amount of money collected was 2,340.00 dollars. How many solid rolls were sold? How many print rolls were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2100",
+    "equation": "(0.25*m)+(0.5*n)+(-0.4*30.0) = 0, -30.0+m+n = 0",
+    "question": "An embossing shop etches metal with acid solutions. The owner is discussing a certain job with the job supervisor , and they decide to use 30 ounces of a 40 % solution. Upon checking the acid solution supplies , the supervisor has found some 25 % acid solution and some 50 % acid solution , but there is no 40 % acid solution. The owner explains to the supervisor how the two existing solutions can be mixed to obtain a 40 % acid solution. How much of each solution is needed?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1739",
+    "equation": "-34.0+-m+n = 0, -200.0+m+n = 0",
+    "question": "Jane has a dress shop. She has space for 200 dresses. She sells only red and blue dresses. After reading several fashion magazines she decides to stock her shelves with 34 more blue dresses than red dresses. How many blue dresses and red dresses should she stock?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2681",
+    "equation": "(2.0*m)+(4.0*n)+(-2.5*20.0) = 0, -20.0+m+n = 0",
+    "question": "A special tea blend is made from two varieties of herbal tea , one that costs 4.00 dollars per kilogram and another that costs 2.00 dollars per kilogram. How many kilograms of each type are needed to make 20 kilograms of a blend worth 2.50 dollars per kilogram?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5014",
+    "equation": "(2.0*m)+(3.0*n)+-80.0 = 0, -37.0+m+n = 0",
+    "question": "The Lakers scored a total of 80 points in a basketball game against the Bulls. The Lakers made a total of 37 baskets , consisting of 2 point baskets and 3 point baskets. How many 2 point baskets did the Lakers make? How many 3 point baskets did the Lakers make?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6212",
+    "equation": "(200.0*m)+(300.0*n)+-1600.0 = 0, -7.0+m+n = 0",
+    "question": "In 1 week , a music store sold 7 violins for a total of 1600 dollars. 2 different types were sold. One cost 200 dollars and the other cost 300 dollars. How many 200-dollar violins were sold? How many 300-dollar violins were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "434",
+    "equation": "17.99+(0.18*m)+-18.95+(-0.16*m) = 0",
+    "question": "Sunshine Car Rentals rents a basic car at a daily rate of 17.99 dollars plus 0.18 per mile. City Rentals rents a basic car at 18.95 dollars plus 0.16 per mile. For what mileage is the cost the same?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "3168",
+    "equation": "124.0+-38.0+(-2.0*m) = 0",
+    "question": "The sum of 38 and twice a number is 124. Find the number.",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "397",
+    "equation": "-2750000.0+-m+n = 0, -3635000.0+m+n = 0",
+    "question": "A company 's profit for the first half of the year is 2,750,000 dollars greater than the profit for the second half. If the total annual profit is 3,635,000 dollars , find the profit for the first half-year and the second half-year.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2157",
+    "equation": "(6.0*(-m+n))+-24.0 = 0, (4.0*(m+n))+-24.0 = 0",
+    "question": "It takes a boat 4 hours to travel 24 miles down a river and 6 hours to return upstream to its starting point. What is the rate of the current in the river?",
+    "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
+  },
+  {
+    "index": "3585",
+    "equation": "(0.08*m)+(0.1*n)+-256.0 = 0, -3000.0+m+n = 0",
+    "question": "Pat invested a total of 3,000 dollars. Part of the money yields 10 percent interest per year and the rest yields 8 percent interest per year. If the total yearly interest from this investment is 256 dollars , how much did Pat invest at 10 percent and how much at 8 percent?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6765",
+    "equation": "(6.0*m)+(2.0*n)+-6600.0 = 0, -500.0+-m+n = 0",
+    "question": "2 similar tables and 6 similar chairs cost 6600 dollars. If the table cost 500 dollars more than a chair , what is the cost , in dollars , of the table? What is the cost of the chair?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "724",
+    "equation": "-27.0+-m+n = 0, -301.0+m+n = 0",
+    "question": "The state market has 27 more apples than oranges. There are 301 apples and oranges all together. How many apples are in the market?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5595",
+    "equation": "(2.0*m)+-45.0+(-0.5*m) = 0",
+    "question": "Find the number whose double is 45 greater than its half?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "6341",
+    "equation": "980.0+-560.0+(-28.0*m) = 0",
+    "question": "A carpenter gave an estimate of 980 dollars to build a cover over a patio. His hourly rate is 28 dollars and he expects to need 560 dollars in materials. How many hours will the job take?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "1164",
+    "equation": "(8.0*m)+(1.0*n)+-50.0 = 0, -22.0+m+n = 0",
+    "question": "Adult tickets for a play cost 8 dollars and child tickets cost 1 dollars. If there were 22 people at a performance and the theater collected 50 dollars from ticket sales , how many children attended the play?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "986",
+    "equation": "3.7+-1.45+(-3.0*m) = 0",
+    "question": "kevin bought 3 muffins and a bottle of juice that cost 1.45 dollars. He paid a total of 3.70 dollars. How much did each muffin cost?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5981",
+    "equation": "(8.0*m)+(9.0*n)+(-8.4*20.0) = 0, -20.0+m+n = 0",
+    "question": "1 blend of coffee sells for 9.00 dollars per pound and another blend sells for 8.00 dollars per pound. You want to make a 20 pound blend that sells for 8.40 dollars per pound. How many pounds of the 8 dollars per pound coffee do you need? How many pounds of the 9 dollars per pound coffee do you need?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1562",
+    "equation": "9.5+-77.75+m = 0",
+    "question": "The tallest player on the basketball team is 77.75 inches tall. This is 9.5 inches taller than the shortest player. How tall is the shortest player , in inches?",
+    "template": "a+-b+m = 0"
+  },
+  {
+    "index": "5464",
+    "equation": "(0.2*m)+-4.0+-6.0 = 0",
+    "question": "0.20 of a number decreased by 4 is equal to 6. Find the number.",
+    "template": "(a*m)+-b+-c = 0"
+  },
+  {
+    "index": "5669",
+    "equation": "(2.0*m)+-12.0+-n = 0, -36.0+m+n = 0",
+    "question": "The sum of the numbers of boys and girls in a class is 36. If twice the number of girls exceeds the number of boys by 12 , find the number of girls in the class. Find the number of boys.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "1341",
+    "equation": "-1.0+m+n = 0, (-9.0*m)+n = 0",
+    "question": "The probability that San Francisco plays in the next super bowl is nine times the probability that they do not play in the next super bowl. The probability that San Francisco plays in the next super bowl plus the probability that they do not play is 1. What is the probability that San Francisco plays in the next super bowl?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "1997",
+    "equation": "(4.0*m)+(2.0*n)+-1.0 = 0, (3.0*n)+(2.0*m)+-0.7 = 0",
+    "question": "If 4 apples and 2 oranges equals 1 dollars and 2 apples and 3 orange equals 0.70 dollars , how much does each apple and each orange cost?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*n)+(b*m)+-e = 0"
+  },
+  {
+    "index": "1375",
+    "equation": "-220.0+-m+n = 0, -1200.0+m+n = 0",
+    "question": "A washer-dryer combination costs 1,200 dollars. If the washer costs 220 dollars more than the dryer , what does the washer cost? How much does the dryer cost?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5281",
+    "equation": "(2.0*m)+(4.0*n)+-38.0 = 0, -11.0+m+n = 0",
+    "question": "There are 11 animals in a barnyard. Some are chickens and some are cows. There are 38 legs in all. How many chickens and cows are in the barnyard?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2925",
+    "equation": "-25.0+-m+n = 0, -105.0+m+n = 0",
+    "question": "Riza was 25 when her first son was born. Today the sum of their ages is 105. How old is Riza and her son now?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5367",
+    "equation": "(2.0*m)+(3.0*n)+-18.0 = 0, (80.0*m)+(60.0*n)+-480.0 = 0",
+    "question": "Each unit of grain A contains 2 grams of fat and 80 calories , and unit B has 3 grams of fat and 60 calories. If the final product is to provide 18 grams of fat and 480 calories , how much of grain A and how much of grain B should be used.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "1702",
+    "equation": "(0.75*m)+-1800000.0 = 0",
+    "question": "Freeport McMoran projects that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand. What will the world grain demand be in 2010?",
+    "template": "(a*m)+-b = 0"
+  },
+  {
+    "index": "2184",
+    "equation": "(30.0*0.01*m)+(5.0*0.01*n)+(-10.0*25.0*0.01) = 0, -25.0+m+n = 0",
+    "question": "One canned juice drink is 30 % orange juice ; another is 5 % orange juice. How many liters of each should be mixed together in order to get 25 liters that is 10 % orange juice?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1658",
+    "equation": "(2.0*m)+(3.0*n)+-252.0 = 0, (4.0*m)+(1.0*n)+-244.0 = 0",
+    "question": "A motorist drove 2 hours at one speed and then for 3 hours at another speed. He covered a distance of 252 kilometers. If he had travelled 4 hours at the first speed and 1 hour at the second speed , he would have covered 244 kilometers. Find two speeds?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "5020",
+    "equation": "1800.0+-1600.0+(-4.0*0.01*m) = 0",
+    "question": "Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month. For what amount of sales will the 2 choices be equal?",
+    "template": "a+-b+(-c*0.01*m) = 0"
+  },
+  {
+    "index": "3499",
+    "equation": "(9.0*m)+(5.0*n)+-190.0 = 0, -30.0+m+n = 0",
+    "question": "You have 30 total items that consist of hats and boots. The total cost is 190.00 dollars. Boots cost 9.00 dollars and hats cost 5.00 dollars. How many boots are there? How many hats?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "972",
+    "equation": "(-84.0/12.0)+m = 0",
+    "question": "A 12 ounce can of cranberry juice sells for 84 cents. Give the unit cost in cents per ounce.",
+    "template": "(-a/b)+m = 0"
+  },
+  {
+    "index": "760",
+    "equation": "(25.0*0.01*m)+(80.0*0.01*n)+-20.0 = 0, -36.0+m+n = 0",
+    "question": "Pencils cost 25 cents a piece. Pens cost 80 cents a piece. Susan spent 20 dollars for a total of 36 pens and pencils. How many pencils did she buy?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "432",
+    "equation": "21.95+(0.19*m)+-18.95+(-0.21*m) = 0",
+    "question": "Safety Rent-a-Car rents an intermediate-size car at a daily rate of 21.95 dollars plus 0.19 per mile. City Rentals rent an intermediate-size car for 18.95 dollars plus 0.21 per mile. For what milage is the cost the same?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "542",
+    "equation": "(3.0*0.01*m)+(5.0*0.01*n)+-660.0 = 0, -18000.0+m+n = 0",
+    "question": "Angus invested 18,000 dollars , part at 3 % and part at 5 %. If the total interest at the end of the year is 660 dollars , how much did he invest at 3 %? At 5 %?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5939",
+    "equation": "-6.0+-m+n = 0, -32.0+m+n = 0",
+    "question": "Together , Jane and Jill have 32 dolls. Jill has 6 more dolls than Jane does. How many dolls does Jane have? How many does Jill have?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "3810",
+    "equation": "(250.0*m)+(400.0*m)+-1625.0 = 0",
+    "question": "Two airplanes left the same airport traveling in opposite directions. If one airplane averages 400 miles per hour and the other 250 miles per hour , how many hours will it take for the distance between them be 1625 miles?",
+    "template": "(a*m)+(b*m)+-c = 0"
+  },
+  {
+    "index": "3683",
+    "equation": "(3.0*m)+(2.0*n)+-26.0 = 0, -11.0+m+n = 0",
+    "question": "In a basketball game , Will scored 26 points , consisting only of 3-point shots and 2-point shots. He made a total of 11 shots. How many 3-point shots did he make? How many 2-point shots did he make?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3009",
+    "equation": "-3.0+(-2.0*m)+n = 0, -27.0+m+n = 0",
+    "question": "One number is 3 more than twice a second number. Their sum is 27. Find the smaller number. Find the larger number.",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "2894",
+    "equation": "(6.0*m)+(2.0*n)+-127.92 = 0, (3.0*m)+(8.0*n)+-133.89 = 0",
+    "question": "Lakota bought 6 new compact disks and 2 used compact disks for 127.92 dollars. At the same prices , Mackenzie bought 3 new compact disks and 8 used compact disks for 133.89 dollars. Find the cost of buying a single used compact disk.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "2174",
+    "equation": "-450.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "A garden table and a bench cost 450 dollars combined. The price of the garden table is 2 times the price of the bench. What is the cost of the bench , in dollars?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "5829",
+    "equation": "(4.0*(-m+n))+-26.0 = 0, (2.0*(m+n))+-26.0 = 0",
+    "question": "Rowan can row 26 kilometers downstream in 2 hours. Returning upstream it takes 4 hours to complete the trip. Find his rate in still water in kilometers per hour and the rate of the current.",
+    "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
+  },
+  {
+    "index": "658",
+    "equation": "500.0+-177.0+(-19.0*m) = 0",
+    "question": "Manuel opened a savings account with an initial deposit of 177 dollars. If he wants to save 500 dollars during the next 19 weeks , how much must he save each week , in dollars?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5298",
+    "equation": "20.25+(0.14*m)+-18.25+(-0.22*m) = 0",
+    "question": "The first agency charges 20.25 dollars per day and 0.14 dollars per mile. The second agency charges 18.25 dollars per day and 0.22 dollars per mile. How many miles would you have to drive before the first agency is less expensive than the second?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "3600",
+    "equation": "(7.0*m)+(10.0*n)+-17339.0 = 0, -2000.0+m+n = 0",
+    "question": "Tickets for a concert were priced at 7 dollars for students and 10 dollars for non-students. There were 2000 tickets sold for a total of 17,339 dollars. How many student tickets were sold? How many non-student tickets?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "485",
+    "equation": "(80.0*m)+-4.5 = 0, (-125.0*m)+n = 0",
+    "question": "A weight of 80 pounds stretches a spring 4.5 inches. How far will a weight of 125 pounds stretch the spring?",
+    "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  },
+  {
+    "index": "5163",
+    "equation": "(2.4*0.01*m)+(4.7*0.01*n)+-14761.81 = 0, -318338.0+m+n = 0",
+    "question": "To buy both a new car and a new house , Tina sought two loans totaling 318,338 dollars. The simple interest rate on the first loan was 2.4 % , while the simple interest rate on the second loan was 4.7 %. At the end of the first year , Tina paid a combined interest payment of 14,761.81 dollars. What were the amounts of the two loans?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2626",
+    "equation": "(3.0*m)+(4.0*n)+-100.0 = 0, -30.0+m+n = 0",
+    "question": "A math test is worth 100 points and has 30 problems. Each problem is worth either 3 points or 4 points. How many 4 point problems are there?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "107",
+    "equation": "(8.5*0.01*m)+(6.4*0.01*n)+-575.0 = 0, -8000.0+m+n = 0",
+    "question": "Two investments earn an annual income of 575 dollars. One investment earns an annual simple interest rate of 8.5 % , and the other investment earns an annual simple interest rate of 6.4 %. The amount invested is 8000 dollars. How much money is invested in the first investment and second investment respectively?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5171",
+    "equation": "(3.0*m)+(1.5*n)+-510.0 = 0, -200.0+m+n = 0",
+    "question": "A 200 seat theater charges 3.00 dollars for adults and 1.50 dollars for children. If all seats were filled and the total ticket income was 510 dollars how many adults and children were in the audience?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "289",
+    "equation": "(35.0*m)+(23.0*n)+-490.0 = 0, -0.5+-m+n = 0",
+    "question": "Norbert sold 23 books on Thursday for a certain price. On Friday , he sold 35 of the same books , but he charged 0.50 dollars less per book. He made 490.00 dollars in total. How much did the book sell for on Thursday? How much did the book sell for on Friday?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "5706",
+    "equation": "450.0+-225.0+(-45.0*m) = 0",
+    "question": "A mechanic charged 45 dollars an hour , plus 225 dollars for the parts. If the total bill was 450 dollars , how man hours did the job take?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "3379",
+    "equation": "(1.0*m)+(1.3*n)+-28.0 = 0, -25.0+m+n = 0",
+    "question": "You buy 25 boxes of candy and spend 28.00 dollars. A box of peppermint cost 1.00 dollars a box and candy canes cost 1.30 dollars a box. How many boxes of peppermint did you buy? How many boxes of candy canes?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6208",
+    "equation": "-1.0+(-2.0*m)+n = 0, -22.0+m+n = 0",
+    "question": "The carpenter saws a board that is 22 feet long into two pieces. One piece is to be 1 foot longer than twice the length of the shorter piece. Find the Length of each piece.",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "7056",
+    "equation": "(5.0*m)+(5.0*n)+-2000.0 = 0, -40.0+-m+n = 0",
+    "question": "Two planes start from Chicago at the same time and fly in opposite directions , one averaging a speed of 40 miles per hour greater than the other. If they are 2000 miles apart after 5 hours , find their average speeds.",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "5581",
+    "equation": "(16.0*0.01*m)+(8.0*0.01*n)+(-15.0*320.0*0.01) = 0, -320.0+m+n = 0",
+    "question": "Soybean meal is 16 % protein and cornmeal is 8 %. How many pounds of each should be mixed together in order to get a 320 pound mixture that is 15 % protein?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5580",
+    "equation": "(4.0*m)+(5.0*n)+-7.9 = 0, (2.0*m)+(6.0*n)+-5.7 = 0",
+    "question": "Mary can purchase roses and daisies from a flower shop. She can buy four roses and five daisies for 7.90 dollars or two roses and six daisies for 5.70 dollars. What is the individual cost for each rose and daisy?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "6095",
+    "equation": "(18.0*0.01*m)+(9.0*0.01*n)+(-17.0*360.0*0.01) = 0, -360.0+m+n = 0",
+    "question": "Soybean meal is 18 % protein , cornmeal is 9 % protein. How many pounds of each Soybean meal and how many pounds of cornmeal should be mixed together in order to get 360-pound mixture that is 17 % protein?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "438",
+    "equation": "(2.0*m)+(3.0*n)+(-2.2*80.0) = 0, -80.0+m+n = 0",
+    "question": "A dealer has some hard candy worth 2.00 dollars a pound and some worth 3.00 dollars a pound. He wishes to make a mixture of 80 pounds that he can sell for 2.20 dollars a pound. How many pounds of 2-dollar candy does he need? How many pounds of 3-dollar candy does he need?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "667",
+    "equation": "(1.0*m)+-67.0+(-0.25*n) = 0, -82.0+m+n = 0",
+    "question": "On a college entrance exam , each correct answer adds 1 point to your raw score , each unanswered question adds nothing and each incorrect answer subtracts 0.25 point. You answer 82 out of 85 questions for a raw score of 67. How many questions did you answer correctly?",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6351",
+    "equation": "(2.0*m)+(5.0*n)+-100.0 = 0, -38.0+m+n = 0",
+    "question": "Your science test is worth 100 points and contains 38 questions. There are two-point and five-point questions on the test. How many two-point questions and five-point questions are on the test?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1890",
+    "equation": "-120.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "The 6th graders from an elementary school are going to celebrate the end of the year by going to the local pizza parlor. There are 120 in the whole group and there are twice as many children as adults in the group. How many children are there?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "6114",
+    "equation": "(9.5*m)+-6.3333 = 0",
+    "question": "A plane is using fuel at the rate of 9.5 gallons per hour and it has 6.3333 gallons left in its tank. How long can the plane continue to fly?",
+    "template": "(a*m)+-b = 0"
+  },
+  {
+    "index": "5933",
+    "equation": "(8.0*m)+-4.0+-17.0 = 0",
+    "question": "17 is 4 less than 8 times a number. Find the number.",
+    "template": "(a*m)+-b+-c = 0"
+  },
+  {
+    "index": "6950",
+    "equation": "-20196.0+-m+n = 0, -196554.0+m+n = 0",
+    "question": "Jerry Weller received 20,196 more votes than opponent John Pavich. If the total number of votes was 196,554 , find the number of votes for Jerry. Find the number of votes for John.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "7037",
+    "equation": "(3.0*0.01*m)+(23.0*0.01*n)+(-4.0*1000.0*0.01) = 0, -1000.0+m+n = 0",
+    "question": "One thousand quarts of milk testing 4 % butterfat are to be reduced to 3 %. How many quarts of cream testing 23 % butterfat must be separated from the milk to produce the required result?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2500",
+    "equation": "(4.0*(-m+n))+-900.0 = 0, (3.0*(m+n))+-900.0 = 0",
+    "question": "A plane flies 900 miles with a tail wind in 3 hours. The same plane takes 4 hours to make the return trip against the wind. What is the speed of the plane in still air?",
+    "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
+  },
+  {
+    "index": "2354",
+    "equation": "(30.0*m)+(15.0*n)+-975.0 = 0, -45.0+m+n = 0",
+    "question": "Two rainstorms occurred in one week in a certain area. In the first storm 30 milliliters of rain fell per hour , and in the second storm 15 milliliters of rain fell per hour. Rain fell that week for a total of 45 hours , for a total rainfall of 975 milliliters. How many hours was the first storm and the second storm.",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5054",
+    "equation": "-96.0+m+n = 0, (-5.0*m)+n = 0",
+    "question": "A swim team has 5 times as many girls as boys. There are a total of 96 people on the swim team. How many girls and boys are their on the team?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "2172",
+    "equation": "(6.5*m)+(7.5*n)+-82.0 = 0, -12.0+m+n = 0",
+    "question": "Jerome bought 12 CDs. Some cost 7.50 ea. and the rest cost 6.50 each. How many CDs were bought at each price if he spent 82 dollars?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6862",
+    "equation": "(1.0*m)+(2.0*n)+-260.0 = 0, -180.0+m+n = 0",
+    "question": "A girl saves 1-dollar coins and 2-dollar coins. She takes it to a bank , she has 180 coins in total that equals 260 dollars. How many 1-dollar coins are there? How many 2-dollar coins are there?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2982",
+    "equation": "6649.0+-7066.0+m = 0",
+    "question": "There are 7066 known nesting pairs of bald eagles in the lower 48 states today. This is 6649 more pairs than in 1963. How many nesting pairs of bald eagles were there in the lower 48 states in 1963?",
+    "template": "a+-b+m = 0"
+  },
+  {
+    "index": "2666",
+    "equation": "(1.0*m)+-100.0+(-0.25*n) = 0, -120.0+m+n = 0",
+    "question": "On a test containing 120 questions , the final score is based on 1 point for each correct answer and 0.25 of a point subtracted for each incorrect answer. Allan answered all of the questions and received a final score of 100 points. How many questions did Allan answer correctly?",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6376",
+    "equation": "(2.0*m)+-23.0+-n = 0, -70.0+m+n = 0",
+    "question": "The larger of two numbers is 23 less than twice the smaller. The sum of the two numbers is 70. Find the two numbers.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "2423",
+    "equation": "-750.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "A garden table and a bench cost 750 combined. The price of the garden table is two times the price of the bench. What is the cost of the bench?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "3583",
+    "equation": "5.0+-20.0+m = 0",
+    "question": "The sum of 5 and a number is 20. Find the number.",
+    "template": "a+-b+m = 0"
+  },
+  {
+    "index": "3627",
+    "equation": "(12.95*m)+(17.95*n)+-9423.7 = 0, -586.0+m+n = 0",
+    "question": "586 people attend a banquet at Disney. Residents paid 12.95 dollars and non-residents paid 17.95 dollars. If Disney made 9423.70 dollars from ticket sales for the event , how many residents and non-residents attended?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "396",
+    "equation": "(20.0*m)+(50.0*n)+-2380.0 = 0, -59.0+m+n = 0",
+    "question": "A cashier at Apex Parts received a check for 2380 dollars for 59 parts. Some parts cost 20 dollars per part and other parts cost 50 dollars per part. How many 20-dollar parts are in the order? How many 50-dollar parts are in the order?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5806",
+    "equation": "(0.6*m)+-65.0+(-0.4*m) = 0",
+    "question": "Goran will rent a car for the weekend. He can choose 1 of 2 plans. The first plan has an initial fee of 65 dollars and costs an additional 0.40 dollars per mile driven. The second plan has no initial fee but costs 0.60 dollars per mile driven. How many miles would Goran need to drive for the 2 plans to cost the same?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5503",
+    "equation": "(3.0*m)+(300.0*n)+-69.0 = 0, (5.0*m)+(600.0*n)+-123.0 = 0",
+    "question": "Best Rentals charges a daily fee plus a mileage fee for renting its cars. Barney was charged 69 dollars for 3 days and 300 miles , while Mary was charged 123 dollars for 5 days and 600 miles. Find the daily fee and find the mileage charge?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "2562",
+    "equation": "(15.0*0.01*m)+(25.0*0.01*n)+(-18.0*100.0*0.01) = 0, -100.0+m+n = 0",
+    "question": "A chemist has one solution that is 15 % acid and a second that is 25 % acid. How many liters of each should be mixed together to get 100 liters that is 18 % acid?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5094",
+    "equation": "-5.0+-m+n = 0, -27.0+m+n = 0",
+    "question": "There are 27 students in an Algebra 1 class. There are 5 fewer girls than boys. How many girls are in the class?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6920",
+    "equation": "-21.0+-m+n = 0, -57.0+m+n = 0",
+    "question": "During the 1998-1999 Little League season , the Tigers played 57 games. They lost 21 more games than they won. They did n't tie any. How many games did they win that season?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "3085",
+    "equation": "-10.0+-m+n = 0, -34.0+m+n = 0",
+    "question": "One number exceeds another by 10 and their sum is 34. Find the larger number.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "298",
+    "equation": "(2.0*m)+(3.0*n)+-38.0 = 0, -16.0+m+n = 0",
+    "question": "A chemistry lab can be used by 38 students at one time. The lab has 16 work-stations.  Some set up for 2 students and the others set up for 3 students. How many work-stations accommodate 2 students?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6176",
+    "equation": "(2.0*m)+(3.0*n)+(-2.2*80.0) = 0, -80.0+m+n = 0",
+    "question": "A dealer has some hard candy worth 2 dollars a pound and some worth 3 dollars a pound. He wishes to make a mixture of 80 pounds that he can sell for 2.20 dollars per pound. How many pounds of each kind should he use?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1848",
+    "equation": "(12.0*m)+(16.0*n)+-1350.0 = 0, -90.0+m+n = 0",
+    "question": "A bricklayer and an electrician together spend 90 hours working on a new house. If the bricklayer earns 12 dollars per hour , the electrician earns 16 dollars an hour , and the owner pays them a total of 1350 dollars for their work , how many hours does the bricklayer work? How many hours does the electrician work?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2722",
+    "equation": "(20.0*m)+(30.0*n)+-191000.0 = 0, -7400.0+m+n = 0",
+    "question": "A jazz concert brought in 191,000 dollars with the sale of 7400 tickets. If tickets were sold for 20 dollars and 30 dollars each , how many 20-dollar tickets were sold? How many 30-dollar tickets?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3633",
+    "equation": "(0.5*m)+-200.0+-n = 0, -7000.0+m+n = 0",
+    "question": "A truck and trailer together weigh 7,000 pounds. The trailer weighs 200 pounds less than 0.5 as much as the truck. Find the truck 's weight. Find the trailer 's weight.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "922",
+    "equation": "(9.0*m)+(4.0*n)+(-8.25*20.0) = 0, -20.0+m+n = 0",
+    "question": "Jackie has coffee that sells for 9 dollars per pound and coffee that sells for 4 dollars per pound. How many pounds of 9 dollars coffee and how many pounds of 4 dollars coffee must be mixed to get 20 pounds of coffee that sells for 8.25 dollars per pound?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "266",
+    "equation": "(2.75*m)+(2.0*n)+-1706.25 = 0, -750.0+m+n = 0",
+    "question": "The total attendance at a rally was 750 people. Tickets bought before the rally were 2 dollars each , and tickets bought at the door were 2.75 dollars each. How many tickets were bought at the door if the total receipts were 1706.25 dollars? How many tickets were bought before the rally?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2130",
+    "equation": "(3.0*m)+-5.0+-40.0 = 0",
+    "question": "The difference of 3 times a number and 5 is 40. Find the number.",
+    "template": "(a*m)+-b+-c = 0"
+  },
+  {
+    "index": "7606",
+    "equation": "(5.0*m)+(3.0*n)+-178.0 = 0, -42.0+m+n = 0",
+    "question": "The school is selling tickets to a performance. They have adult and child tickets. Each adult ticket is 5 dollars and each child ticket is 3 dollars. By the end of the week , there was 178 dollars in sales from 42 tickets sold. How many adult tickets were sold? How many child tickets?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2737",
+    "equation": "(2.0*m)+(4.0*n)+-48.0 = 0, -15.0+m+n = 0",
+    "question": "A farmhouse has 15 animals. Some are goats and some are ducks. Altogether there are 48 legs. How many of each animal are there?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6600",
+    "equation": "(129.0*m)+(82.0*n)+-3952.0 = 0, -31.0+m+n = 0",
+    "question": "An employment agency specializing in temporary help pays heavy operators 129 dollars per day and general laborers 82 dollars per day. If 31 people were hired and the payroll was 3952 dollars , how many heavy operators were employed? How many laborers?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2952",
+    "equation": "(5.0*m)+(10.0*n)+-840.0 = 0, -126.0+m+n = 0",
+    "question": "A cashier has a total of 126 bills , made up of 5-dollar bills and 10-dollar bills. The total value of the money is 840 dollars. How many 5-dollar bills does he have? How many 10-dollar bills?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2922",
+    "equation": "(9.0*m)+(4.0*n)+-395.0 = 0, -80.0+m+n = 0",
+    "question": "Peter sold pumpkins from his farm. He sold jumbo pumpkins for 9.00 dollars each , and he sold regular pumpkins for 4.00 dollars each. Peter sold 80 pumpkins and collected 395.00 dollars. How many jumbo pumpkins and regular pumpkins did he sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3151",
+    "equation": "-2.0+(-4.0*m)+n = 0, -387.0+m+n = 0",
+    "question": "An airplane has a total of 387 seats. The number of coach class seats is 2 more than 4 times the number of first-class seats. How many first class and coach class seats are there on the plane?",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "443",
+    "equation": "(95.0*0.01*m)+(90.0*0.01*n)+-11.0 = 0, -12.0+m+n = 0",
+    "question": "A grocer bought 12 bushels of Baldwin and McInotosh apples. Baldwins costs 95 cents a bushel , but McIntosh cost only 90 cents a bushel. If he paid 11.00 dollars for the lot , how many bushels of Baldwins did he get? How many bushels of McIntosh?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1564",
+    "equation": "-8.0+-m+n = 0, -40.0+m+n = 0",
+    "question": "The sum of two numbers is 40 , one number is 8 more than the other. Find the numbers.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6355",
+    "equation": "-9.0+-m+n = 0, -46.0+m+n = 0",
+    "question": "The difference between two numbers is 9. Find the numbers , if their sum is 46.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5425",
+    "equation": "(26.0*m)+(14.0*n)+-2106.0 = 0, (-2.0*m)+n = 0",
+    "question": "Matthew has two different stocks. One of the stocks is worth twice as much per share as the other. He has 14 shares of the more valuable stock and 26 shares of the other stock. His total assets in stocks is 2106 dollars. How much is the more expensive stock per share?",
+    "template": "(a*m)+(b*n)+-c = 0, (-d*m)+n = 0"
+  },
+  {
+    "index": "7938",
+    "equation": "(1.5*m)+(2.25*n)+-1422.0 = 0, -754.0+m+n = 0",
+    "question": "On a certain hot summer 's day , 754 people used the public swimming pool. The daily prices are 1.50 dollars for children and 2.25 dollars for adults. The receipts for admission totaled 1422.00 dollars. How many children and adults swam at the public pool that day?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3623",
+    "equation": "(3.0*m)+(2.0*n)+-12.0 = 0, (4.0*n)+(2.0*m)+-14.0 = 0",
+    "question": "For Monday morning 's staff meeting , Jim bought 2 bags of bagels and 3 packages of cream cheese and paid 12.00 dollars. For Friday 's meeting , he bought 4 bags of bagels and 2 packages of cream cheese and paid 14.00 dollars. How much does a bag of bagels and a package of cream cheese cost , in dollars?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*n)+(b*m)+-e = 0"
+  },
+  {
+    "index": "817",
+    "equation": "(0.05*m)+(0.1*n)+-3.5 = 0, -50.0+m+n = 0",
+    "question": "Jill has 3.50 dollars in nickels and dimes. If she has 50 coins , how many nickels does she have? How many dimes?",
+    "template": "(0.05*m)+(0.1*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6881",
+    "equation": "-3.0+-m+n = 0, -41.0+m+n = 0",
+    "question": "There are 3 more girls than boys in Tom 's class , and the sum of girls and boys is 41. How many boys are in the class? How many girls are in the class?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6168",
+    "equation": "(5.0*m)+(5.0*n)+-600.0 = 0, -10.0+-m+n = 0",
+    "question": "2 automobiles start out from two points 600 kilometers apart and travel toward each other.The automobile from the east travels at 10 kilometers faster than the automobile from the west. If they meet after 5 hours , what is the average speed of each automobile?",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "2523",
+    "equation": "(100.0*0.01*m)+(10.0*0.01*n)+(-20.0*55.0*0.01) = 0, -55.0+m+n = 0",
+    "question": "A garage owner wants to fill a 55 gallon drum with a 20 percent winter mixture of antifreeze for his customers. How many gallons of 100 percent antifreeze should he mix with some 10 percent antifreeze mixture in order to fill the drum?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5767",
+    "equation": "(2.0*m)+(4.0*n)+-50.0 = 0, -18.0+m+n = 0",
+    "question": "A farmer has cows and chickens. He only sees 50 legs and 18 heads. How many are cows and how many are chickens?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "3852",
+    "equation": "(9.5*m)+(6.5*n)+-54.5 = 0, -7.0+m+n = 0",
+    "question": "At a movie theater , tickets cost 9.50 dollars for adults and 6.50 dollars for children. A group of 7 moviegoers pays a total of 54.50 dollars. How many adults and children were in the group?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3772",
+    "equation": "-24.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "There are 24 kids in Mrs Jones ' class. There are twice as many girls as boys. How many boys and girls are there?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "82",
+    "equation": "(22.0*m)+(14.5*n)+-16640.0 = 0, -800.0+m+n = 0",
+    "question": "The Rhapsody Theater sold 800 total tickets. An advanced ticket costs 14.50 dollars and a ticket at the door costs 22.00 dollars. In all , 16,640 dollars was taken in. How many tickets were sold at the door? How many advanced tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2934",
+    "equation": "(3.0*m)+(5.0*n)+-72.0 = 0, -16.0+m+n = 0",
+    "question": "Max bought 16 pounds of nuts at a party. The total cost was 72 dollars. The peanuts cost 3 dollars per pound and the almounds cost 5 dollars per pound. How many pounds of peanuts did max buy? How many pounds of almounds did Max buy?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6803",
+    "equation": "-180.0+m+n = 0, (-8.0*m)+n = 0",
+    "question": "The greater of two numbers is 8 times the lesser and their sum is 180. Find the numbers.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "3029",
+    "equation": "(2.0*m)+-3.0+-n = 0, -57.0+m+n = 0",
+    "question": "The second number is 3 less than twice the first number. Their sum is 57. Find the second number.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "580",
+    "equation": "12.02+-5.0+(-25.0*0.01*m) = 0",
+    "question": "For his long distance phone calls , John pays a 5 dollars monthly fee plus 25 cents per minute. Last month , John 's long distance bill was 12.02 dollars. For how many minutes was John billed?",
+    "template": "a+-b+(-c*0.01*m) = 0"
+  },
+  {
+    "index": "6336",
+    "equation": "(42.0*m)+(35.0*n)+-165200.0 = 0, -4500.0+m+n = 0",
+    "question": "The Willey Farm Collective , farmed by several branches of the Willeys , has 4500 acres of land available for raising corn and wheat. The cost of raising corn is 42 dollars an acre , while the cost of wheat is 35 dollars an acre. The Collective 's available capital is 165,200 dollars. How many acres of corn should the Collective plant? How many acres of wheat should the collective plant?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2363",
+    "equation": "-27.0+-m+n = 0, -69.0+m+n = 0",
+    "question": "During a sale an automobile dealer sold 69 cars and trucks. If she sold 27 more cars than trucks how many trucks did she sell?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5799",
+    "equation": "(2.0*m)+(3.0*n)+-1933.0 = 0, -821.0+m+n = 0",
+    "question": "For a certain event , 821 tickets were sold , for a total of 1933 dollars. If students paid 2 dollars per ticket and nonstudents paid 3 dollars per ticket , how many student tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7363",
+    "equation": "(5.0*m)+(20.0*n)+-155.0 = 0, -13.0+m+n = 0",
+    "question": "Mrs. Naidu bought 155 dollars in groceries. She paid her bill with 5-dollar notes and 20-dollar notes using a total of 13 notes. How many 5-dollar notes were used? How many 20-dollar notes were used?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5080",
+    "equation": "(0.6*m)+-1.0+-2.0 = 0",
+    "question": "A water flow restrictor has reduced the flow of water to 2 gallons per minute. This amount is 1 gallon per minute less than 0.6 the original flow rate. Find the original rate in gallons per minute.",
+    "template": "(a*m)+-b+-c = 0"
+  },
+  {
+    "index": "2074",
+    "equation": "-4.0+(-0.375*m)+n = 0, -147.0+m+n = 0",
+    "question": "Find two numbers whose sum is 147 and one is 4 greather than 0.375 of the other.",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5769",
+    "equation": "(2.0*m)+(4.0*n)+-40.0 = 0, -13.0+m+n = 0",
+    "question": "There are 13 animals in a barn. Some are chickens and some are pigs. There are 40 legs in the barn. How many are pigs are there and how many chicken are there?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6348",
+    "equation": "88.0+-50.0+(-20.0*0.01*m) = 0",
+    "question": "A car rents for 50 dollars a day plus 20 cents a mile. You are on a daily budget of 88 dollars. What maximum mileage will allow you to stay within your budget?",
+    "template": "a+-b+(-c*0.01*m) = 0"
+  },
+  {
+    "index": "6096",
+    "equation": "(36.0*m)+(28.0*n)+-6080.0 = 0, -200.0+m+n = 0",
+    "question": "A vendor sold 200 tickets for an upcoming rock concert. Floor seats were 36 dollars and stadium seats were 28 dollars. The vendor sold 6080 dollars in tickets. How many 36-dollar tickets did the vendor sell? How many 28-dollar tickets did the vendor sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5110",
+    "equation": "(360.0*m)+(450.0*n)+-4950.0 = 0, -12.0+m+n = 0",
+    "question": "A building with 12 units consists of 1 bedrooms costing 360 dollars and 2 bedrooms costing 450 dollars respectively. When all units are full the total is 4950 dollars. How many 2 bedroom units are there?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "179",
+    "equation": "-4.0+-m+n = 0, -56.0+m+n = 0",
+    "question": "The second of two numbers is 4 more than the first. The sum is 56. Find the first and second numbers.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "7023",
+    "equation": "(20.0*m)+-450.0+(-5.0*n) = 0, -25.0+m+n = 0",
+    "question": "A woman is paid 20 dollars for each day she works and forfeits 5 dollars for each day she is idle. At the end of 25 days she nets 450 dollars. How many days did she work?",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3055",
+    "equation": "(3.0*m)+-25.0+(-2.0*m) = 0",
+    "question": "Twice a number equals 25 less than triple the same number. What is the number?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "6946",
+    "equation": "(9.0*m)+(12.0*n)+-162.0 = 0, -16.0+m+n = 0",
+    "question": "You are taking a test in which multiple choice questions are worth 9 points and essay questions are worth 12 points. You answer 16 questions correctly , and your score was 162 points. Find how many multiple choice questions you got right. How many essay questions did you get right?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1578",
+    "equation": "(52.0*m)+(58.0*m)+-385.0 = 0",
+    "question": "Two cars leave the same point , traveling in opposite directions. If one travels at a constant speed of 52 miles per hour and the other travels at a constant speed of 58 miles per hour. In how many hours will they be 385 miles apart?",
+    "template": "(a*m)+(b*m)+-c = 0"
+  },
+  {
+    "index": "665",
+    "equation": "(8.0*0.01*m)+(7.0*0.01*n)+-1710.0 = 0, -22000.0+m+n = 0",
+    "question": "Lane invested 22,000 dollars , part at 8 % and part at 7 %. If the total interest at the end of the year is 1,710 dollars , how much did she invest at 8 %?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6290",
+    "equation": "(2.0*m)+-9.0+-n = 0, -42.0+m+n = 0",
+    "question": "1 number is 9 less than twice another , and their sum is 42. Find the two numbers.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "3591",
+    "equation": "(0.5*m)+-9.0 = 0",
+    "question": "Think of a number , half it and the result is 9. Find the number.",
+    "template": "(a*m)+-b = 0"
+  },
+  {
+    "index": "3125",
+    "equation": "-18.0+-m+n = 0, -64.0+m+n = 0",
+    "question": "The sum of 2 numbers is 64 and their difference is 18. What is the first number? What is the second number?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6690",
+    "equation": "(6.0*m)+(9.0*n)+-1875.0 = 0, -225.0+m+n = 0",
+    "question": "Tickets to the school 's dinner theatre cost 6 dollars for children and 9 dollars for adults. 225 tickets were sold for a total of 1875 dollars. How many children attended? How many adults attended?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1219",
+    "equation": "(0.05*m)+(0.1*n)+-1.9 = 0, -30.0+m+n = 0",
+    "question": "Suzy has a piggy bank consisting of nickels and dimes. If there are 30 coins worth 1.90 dollars , how many nickels and dimes are in the bank?",
+    "template": "(0.05*m)+(0.1*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6913",
+    "equation": "(1.3333*m)+-4.82 = 0",
+    "question": "1.3333 of a number is 4.82 , what is the number?",
+    "template": "(a*m)+-b = 0"
+  },
+  {
+    "index": "5307",
+    "equation": "(6.0*m)+(5.0*n)+-213.0 = 0, (2.0*m)+(9.0*n)+-269.0 = 0",
+    "question": "6 ducks and 5 pigs cost 213 dollars , while 2 ducks and 9 pigs cost 269 dollars. Find the cost of a duck and a pig.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "6688",
+    "equation": "(22.0*m)+(22.0*n)+-264.0 = 0, -6.0+-m+n = 0",
+    "question": "2 snails are 264 centimeters apart. They craw toward each other at rates that differ by 6 centimeters per minute. After 22 minutes they meet. How fast is each snail crawling?",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "2653",
+    "equation": "(20.0*m)+(10.0*n)+-800.0 = 0, (15.0*m)+(5.0*n)+-550.0 = 0",
+    "question": "The manager of a discount clothing store received 2 shipments of Fall clothing. The cost of the first shipment which contained 10 identical sweaters and 20 identical jackets was 800 dollars. The second shipment at the same prices , contained 5 of the same sweaters and 15 of the same jackets. The second shipment was 550 dollars. Find the cost of 1 jacket , in dollars.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "7",
+    "equation": "-212.0+-m+n = 0, -466.0+m+n = 0",
+    "question": "High school graduating class is made up of 466 students. There are 212 more girls than boys. How many boys are in the class?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2504",
+    "equation": "800.0+(30.0*m)+-500.0+(-35.0*m) = 0",
+    "question": "Student Council wants to rent a banquet hall for the prom. Caesar 's charges 800 dollars to rent the room and 30 dollars for each meal. Venus Hall charges 500 dollars to rent the room and 35 dollars for each meal. How many guests must attend the prom for the costs of the two halls to be the same?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "3184",
+    "equation": "(4.0*m)+(7.0*m)+-55.0 = 0",
+    "question": "When 4 times the number is added to 7 times the number the result is 55. What is the number?",
+    "template": "(a*m)+(b*m)+-c = 0"
+  },
+  {
+    "index": "5653",
+    "equation": "(16.0*0.01*m)+(14.0*0.01*n)+-1326.0 = 0, -8800.0+m+n = 0",
+    "question": "2 investments are made totaling 8800 dollars. For a certain year , these investments yield 1326 dollars in simple interest. Part of the 8800 dollars is invested at 16 % and part at 14 %. Find the amount invested at 16 % and 14 %.",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6118",
+    "equation": "(5.0*(-m+n))+-2000.0 = 0, (4.0*(m+n))+-2000.0 = 0",
+    "question": "With a tail wind , a jet flew 2000 miles in 4 hours. The jet 's return trip against the same wind required 5 hours. Find the jet 's speed and the wind speed.",
+    "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
+  },
+  {
+    "index": "5925",
+    "equation": "(15.0*m)+-4100.0+(-10.0*m) = 0",
+    "question": "Sara and Jim both decided to save some money each week. Sara has already saved 4100 dollars , and she plans to save 10 dollars a week. Jim plans to save 15 dollars a week. In how many weeks will Jim and Sara have saved the same amount?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5365",
+    "equation": "(20.0*0.01*m)+(80.0*0.01*n)+(-62.0*10.0*0.01) = 0, -10.0+m+n = 0",
+    "question": "You are making 10 tons of concrete that is 62 % cement by mixing a 20 % cement mixture with a 80 % cement mixture. How much of the 80 % cement mixture must you use? Answer in units of tons.",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3790",
+    "equation": "(0.4*m)+-10.0+(-0.625*n) = 0, -66.0+m+n = 0",
+    "question": "Separate 66 into 2 parts so that 0.40 of one part exceeds 0.625 of the other part by 10. What is the smaller part? What is the larger part?",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2189",
+    "equation": "(30.0*m)+(50.0*n)+-18360.0 = 0, (-3.0*m)+n = 0",
+    "question": "Snookers Lumber can convert logs into either lumber or plywood. In a given day , the mill turns out three times as many units of plywood as lumber. It makes a profit of 30 dollars on a unit of lumber and 50 dollars on a unit of plywood. Snookers lumber must produce and sell ___ units of lumber and ___ units of plywood to make a profit of 18360 dollars?",
+    "template": "(a*m)+(b*n)+-c = 0, (-d*m)+n = 0"
+  },
+  {
+    "index": "5206",
+    "equation": "(-715.0/11.0)+m = 0",
+    "question": "A car traveled 715 kilometers in 11 hours. What was its average speed?",
+    "template": "(-a/b)+m = 0"
+  },
+  {
+    "index": "6106",
+    "equation": "(15.0*m)+-85.0+-20.0 = 0",
+    "question": "You make candles and sell them for 15 dollars each. The material to make up to 20 candles costs 20 dollars. How many candles must you sell to have a profit of 85 dollars?",
+    "template": "(a*m)+-b+-c = 0"
+  },
+  {
+    "index": "6354",
+    "equation": "(0.18*m)+(0.53*n)+(-0.36*35.0) = 0, -35.0+m+n = 0",
+    "question": "Tim and Judy mix two kinds of feed for pedigreed dogs. They wish to make 35 pounds of feed worth 0.36 dollars per pound by mixing one kind worth 0.18 dollars per pound with another worth 0.53 dollars per pound. How many pounds of the cheaper kind should they use in the mix?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "878",
+    "equation": "(20.0*m)+(15.0*n)+-510.0 = 0, -30.0+m+n = 0",
+    "question": "A grain-storage warehouse has a total of 30 bins. Some hold 20 tons of grain each.  The rest hold 15 tons each. How many of each type of bin are there if the capacity of the warehouse is 510 tons? How many 20 ton bins? How many 15 ton bins?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1191",
+    "equation": "(2.0*m)+-3.0+-n = 0, -39.0+m+n = 0",
+    "question": "One number is 3 less than twice another. If their sum is 39 , find the numbers.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "4649",
+    "equation": "(6.0*m)+(4.5*n)+-1972.5 = 0, -380.0+m+n = 0",
+    "question": "The Red Rose Theatre sells tickets for 4.50 dollars and 6.00 dollars. A total of 380 tickets were sold for their last performance of `` Mickey the Mouse ''. If the sales for the performance totaled 1972.50 dollars , how many tickets were sold for 6.00 dollars? How many tickets were sold for 4.50 dollars?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2944",
+    "equation": "(15.0*m)+(8.0*n)+-5086.0 = 0, -522.0+m+n = 0",
+    "question": "The owner of the Most Amazing Circus was counting the money from one day 's ticket sales. He knew that a total of 522 tickets were sold. Adult tickets cost 15 dollars each and children 's tickets cost 8 dollars each. If the total receipts for the day were 5086.00 dollars , how many adult tickets were sold? How many children 's tickets?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2196",
+    "equation": "(3.0*m)+(3.0*n)+-390.0 = 0, -30.0+-m+n = 0",
+    "question": "A freight train and an express train leave towns 390 kilometers apart , traveling toward one another. The freight train travels 30 kilometers per hour slower than the express train. They pass one another 3 hours later. How fast is the freight train , in miles per hour? How fast is the express train?",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "6478",
+    "equation": "315.0+-450.0+m = 0",
+    "question": "If your gross pay is 450 dollars , while your net pay is 315 dollars , how much do you pay in taxes? Assume that all tax dollars are not included in net pay.",
+    "template": "a+-b+m = 0"
+  },
+  {
+    "index": "1099",
+    "equation": "(300.0*m)+(250.0*n)+-217500.0 = 0, -850.0+m+n = 0",
+    "question": "There are 850 douglas fir and ponderosa pine trees in a section of the forest bought by Sawz logging company. The company paid an average of 300 dollars for each douglas fir and 250 dollars for each ponderosa pine. if the company paid 217,500 dollars for the trees , how many firs and pines did they buy?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3673",
+    "equation": "(180.0*m)+(250.0*n)+-1325.0 = 0, -6.0+m+n = 0",
+    "question": "A plumber contractor decides to field-test two new pumps. One is rated at 180 gallons per hour and the other at 250 gallons per hour. Over a period of 6 hours , she pumps a total of 1325 gallons. How many hours were used by the 180 gallons per hour pump? How many hours were used by the 250 gallons per hour pump?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1532",
+    "equation": "(2.0*m)+-36.0+(-10.0*m) = 0",
+    "question": "The product of 10 and a number is the same as 36 less twice that same number. Find the number.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "3471",
+    "equation": "(6.5*0.01*m)+(8.0*0.01*n)+-678.87 = 0, -9000.0+m+n = 0",
+    "question": "A woman invested a total of 9,000 dollars in 2 accounts , one earning 6.5 % annual interest and the other earning 8 % annual interest. After 1 year , her combined interest was 678.87 dollars. How much did she invest in the account paying 8 % interest , in dollars?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6672",
+    "equation": "-60.0+-m+n = 0, -70.0+m+n = 0",
+    "question": "A peach and a apple cost 70 cents. The peach is more expensive than the apple by 60 cents. What is the cost a peach , in cents? What is the cost of an apple , in cents?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6675",
+    "equation": "(20.0*m)+-325.0+(-5.0*n) = 0, -30.0+m+n = 0",
+    "question": "In a test of 30 questions , 20 points are given for each correct answer and 5 points are deducted for each one answered incorrectly. If Maria answered all of the questions and got a score of 325 , how many did she get correct?",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3311",
+    "equation": "(0.05*m)+(0.1*n)+-4.55 = 0, -50.0+m+n = 0",
+    "question": "A piggy bank has 50 coins. The coins are either nickels or dimes. The bank has 4.55 dollars in total. How many coins are nickels? How many are dimes?",
+    "template": "(0.05*m)+(0.1*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5808",
+    "equation": "(-90.0/120.0)+m = 0",
+    "question": "If 120 lollipops cost 90 dollars , how much does 1 lollipop cost , in dollars?",
+    "template": "(-a/b)+m = 0"
+  },
+  {
+    "index": "5533",
+    "equation": "(5.0*0.01*m)+(25.0*0.01*n)+(-18.0*10.0*0.01) = 0, -10.0+m+n = 0",
+    "question": "How many liters of 5 % saline solution and 25 % saline solution must be mixed together to get 10 liters of 18 % saline solution?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1975",
+    "equation": "(2.5*m)+(4.0*n)+-765.0 = 0, -240.0+m+n = 0",
+    "question": "Tickets to a movie were sold at 4.00 dollars per adult and 2.50 dollars per student. If 240 tickets were sold for a total of 765.00 dollars , how many student tickets were sold? How many adult tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2939",
+    "equation": "(1.25*m)+(2.5*n)+-265.0 = 0, -155.0+m+n = 0",
+    "question": "Harold had a summer lemonade stand where he sold small cups of lemonade for 1.25 dollars and large cups for 2.50 dollars. If Harold sold a total of 155 cups of lemonade and collected a total of 265 dollars , how many small cups and large cups did he sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "881",
+    "equation": "(20.0*m)+(15.0*n)+-510.0 = 0, -30.0+m+n = 0",
+    "question": "A grain storage warehouse has a total of 30 bins. Some hold 20 tons of grain each.  The rest hold 15 tons each. The capacity of the warehouse is 510 tons.  How many 20 ton bins are there? How many 15 ton bins?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3828",
+    "equation": "70.0+-35.68+(-8.58*m) = 0",
+    "question": "Rita received a 70 dollars gift card for a coffee store. She used it in buying some coffee that cost 8.58 dollars per pound. After buying the coffee , she had 35.68 dollars left on her card. How many pounds of coffee did she buy?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5184",
+    "equation": "(3.0*m)+-1.0+(-2.0*m) = 0",
+    "question": "The difference between 3 times a number and 1 is the same as twice a number. Find the number.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "286",
+    "equation": "(0.75*m)+-15.0 = 0",
+    "question": "At the carnival , tickets for the rides are 0.75 dollars each , or you can buy an armband for 15 dollars and ride unlimited for one night. At how many rides does the armband cost the same as buying individual tickets?",
+    "template": "(a*m)+-b = 0"
+  },
+  {
+    "index": "3681",
+    "equation": "-6.0+-m+n = 0, -52.0+m+n = 0",
+    "question": "The sum of two numbers is 52 , and their difference is 6. What are the numbers?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2031",
+    "equation": "75.0+-30.0+(-18.0*0.01*m) = 0",
+    "question": "A car rents for 30 dollars per day plus 18 cents per mile. You are on a budget of 75 dollars. What mileage would allow you to stay within your budget?",
+    "template": "a+-b+(-c*0.01*m) = 0"
+  },
+  {
+    "index": "6008",
+    "equation": "-124.0+m+n = 0, (-3.0*m)+n = 0",
+    "question": "1 out of 2 numbers is thrice the other. If their sum is 124 , find the numbers.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "1945",
+    "equation": "(40.0*m)+-32.0 = 0, (-35.0*m)+n = 0",
+    "question": "According to Dr. Aaron R. Folsom of the University of Minnesota School of Public Health , your maximum ideal waist size is directly proportional to your hip size. For a woman with 40 inch hips , the maximum ideal waist size is 32 inches. What is the maximum waist size for a woman with 35 inch hips?",
+    "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  },
+  {
+    "index": "4651",
+    "equation": "(1.5*m)+(4.0*n)+-810.0 = 0, -315.0+m+n = 0",
+    "question": "The admission fee at an amusement park is 1.5 dollars for children and 4 dollars for adults. On a certain day 315 people entered the park , and the admission fees collected 810 dollars. How many children and adults were admitted?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2529",
+    "equation": "(2.0*m)+(1.5*n)+-985.0 = 0, -578.0+m+n = 0",
+    "question": "The attendance at a school concert was 578 people. Admission cost 2.00 dollars for adults and 1.50 dollars for children. The receipts were 985.00 dollars. How many adults and how many children attended the concert?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "135",
+    "equation": "(2.0*m)+(3.0*n)+-100.0 = 0, -38.0+m+n = 0",
+    "question": "Tennis rackets can be packaged in cartons holding 2 rackets each or in cartons holding 3 rackets each. Yesterday 's packing slip showed that 38 cartons were used to pack a total of 100 rackets. How many cartons of 2 rackets size were used yesterday? How many cartons of 3 rackets size were used yesterday?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5174",
+    "equation": "(45.0*m)+(85.0*n)+-1100.0 = 0, -20.0+m+n = 0",
+    "question": "Two mechanics worked on a car. The first mechanic charged 45 dollars per hour , and the second mechanic charged 85 dollars per hour. The mechanics worked for a combined total of 20 hours , and together they charged a total of 1100 dollars. How long did the first mechanic and second mechanic work?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5851",
+    "equation": "1.6667+-0.75+(-0.6667*m) = 0",
+    "question": "0.6667 of a number increased by 0.75 is 1.6667 , what is the number?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "1102",
+    "equation": "(3.0*m)+-20.0+-n = 0, -48.0+m+n = 0",
+    "question": "Three times a number minus a second number is 20. The sum of the two numbers is 48. Find the two numbers.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "1301",
+    "equation": "(1.5*m)+(4.0*n)+-5050.0 = 0, -2200.0+m+n = 0",
+    "question": "The admission fee at a small fair is 1.50 dollars for children and 4.00 dollars for adults. On a certain day , 2200 people enter the fair and 5050 dollars is collected. How many children and adults attended?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1490",
+    "equation": "(7.5*m)+(3.5*n)+-4375.0 = 0, -650.0+m+n = 0",
+    "question": "El Segundo High School put on their annual musical. The students sold 650 tickets for a value of 4375 dollars. If orchestra seats cost 7.50 dollars and balcony seats cost 3.50 dollars , how many orchestra seats were sold , and how many balcony seats were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5841",
+    "equation": "(4.0*0.01*m)+(6.0*0.01*n)+-1980.0 = 0, -39000.0+m+n = 0",
+    "question": "Phyllis invested 39000 dollars , a portion earning a simple interest rate of 4 % per year and the rest earning a rate of 6 % per year. After 1 year the total interest earned on these investments was 1980 dollars. How many dollars did she invest at 4 %? At 6 %?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1889",
+    "equation": "(7.0*m)+(5.0*n)+-146.0 = 0, -24.0+m+n = 0",
+    "question": "24 is divided into two parts such that 7 times the first part added to 5 times the second part makes 146. Find each part.",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6327",
+    "equation": "(4.0*m)+(-9.0*n) = 0, -91.0+m+n = 0",
+    "question": "The ratio of boys to girls is 9 to 4. You know there are 91 total students. How many of them are boys? How many are girls?",
+    "template": "(a*m)+(-b*n) = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5017",
+    "equation": "(4.0*m)+(3.0*n)+-79.0 = 0, (12.0*m)+(10.0*n)+-246.0 = 0",
+    "question": "Stefans school is selling tickets to a choral performance. On the first day of ticket sales the school sold 4 senior citizen tickets and 3 student tickets for 79 dollars. The school took 246 dollars on the second day by selling 12 senior citizen tickets and 10 student tickets. Find the price of a senior citizen ticket and the price of a student ticket.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "7019",
+    "equation": "(60.0*0.01*m)+(25.0*0.01*n)+-140.0 = 0, -280.0+m+n = 0",
+    "question": "Admission tickets to a theater were 60 cents for adults and 25 cents for children. Receipts for the day showed that 280 persons attended and 140 dollars was collected. How many children attended that day?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3215",
+    "equation": "-10.0+(-3.0*m)+n = 0, -70.0+m+n = 0",
+    "question": "The sum of 2 numbers is 70. The second is 10 more than 3 times the first. Find the smaller number. Find the larger number.",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "313",
+    "equation": "(5.0*(-m+n))+-45.0 = 0, (3.0*(m+n))+-45.0 = 0",
+    "question": "A boat travels 45 miles upstream in 5 hours. The boat travels the same distance downstream in 3 hours. What is the speed of the boat in still water in miles per hour? What is the speed of the current in miles per hour?",
+    "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
+  },
+  {
+    "index": "1923",
+    "equation": "(10.0*0.01*m)+(80.0*0.01*n)+(-50.0*4.0*0.01) = 0, -4.0+m+n = 0",
+    "question": "A mixture of water and antifreeze in a car is 10 % antifreeze. In colder climates this mixture should contain 50 % antifreeze. If the radiator contains 4 gallons of fluid , how many gallons of radiator fluid should be drained and replaced with a mixture containing 80 % antifreeze?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6878",
+    "equation": "-5.0+(-2.0*m)+n = 0, -62.0+m+n = 0",
+    "question": "The sum of two numbers is 62. The greater number exceeds twice the smaller number by 5. What are the two numbers?",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5068",
+    "equation": "(40.0*0.01*m)+(25.0*0.01*n)+(-34.0*129.0*0.01) = 0, -129.0+m+n = 0",
+    "question": "A chemist has two solutions. One has 40 % the other 25 % concentrate. How many liters of each solution must be mixed to obtain 129 liters of 34 % solution?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6087",
+    "equation": "(8.0*m)+(6.0*n)+-1240.0 = 0, -180.0+m+n = 0",
+    "question": "A group of students went hiking in a wildlife sanctuary. During the hike a total of 180 ticks and mosquitoes were slapped. Ticks have 8 legs and mosquitoes have 6 legs. If these pests has a total of 1240 legs , how many mosquitoes and how many ticks were slapped during the hike?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1692",
+    "equation": "(-2.99/12.0)+m = 0",
+    "question": "Soft drinks are on sale at the grocery store for 2.99 dollars for a 12 pack. How much would each can of soft drink cost if purchased individually , in dollars?",
+    "template": "(-a/b)+m = 0"
+  },
+  {
+    "index": "6004",
+    "equation": "44.0+-55.0+m = 0",
+    "question": "A textbook costs a bookstore 44 dollars , and the store sells it for 55 dollars. Find the amount of profit based on the selling price.",
+    "template": "a+-b+m = 0"
+  },
+  {
+    "index": "2400",
+    "equation": "-65.0+m+n = 0, (-4.0*m)+n = 0",
+    "question": "There are 2 numbers whose sum is 65 , such that one is 4 times as large as the other. What is the smaller number? What is the larger number?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "6933",
+    "equation": "(2.0*m)+(4.0*n)+-30.0 = 0, -13.0+m+n = 0",
+    "question": "There are 30 legs and 13 heads of goats and chicken , so how may goats and chicken are there?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "139",
+    "equation": "(18.0*0.01*m)+(50.0*0.01*n)+(-30.0*80.0*0.01) = 0, -80.0+m+n = 0",
+    "question": "A chemist has a solution that is 18 % alcohol and one that is 50 % alcohol. He wants to make 80 liters of a 30 % solution. How many liters of the 18 % solution should he add? How many liters of the 30 % solution should he add?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "154",
+    "equation": "19.0+-4.0+(-5.0*m) = 0",
+    "question": "If the product of 5 and a number is increased by 4 , the result is 19. What is the number?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "1292",
+    "equation": "(1.0*m)+(3.0*n)+-155.0 = 0, (2.0*n)+(3.0*m)+-220.0 = 0",
+    "question": "3 footballs and 1 soccer ball cost 155 dollars. 2 footballs and 3 soccer balls cost 220 dollars. Determine the cost of 1 football and the cost of one soccer ball , in dollars.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*n)+(b*m)+-e = 0"
+  },
+  {
+    "index": "6135",
+    "equation": "22.0+(0.13*m)+-8.0+(-0.18*m) = 0",
+    "question": "Customers of a phone company can choose between 2 service plans for long distance calls. The first plan has a 22 dollars monthly fee and charges an additional 0.13 dollars for each minute of calls. The second plan has an 8 dollars monthly fee and charges an additional 0.18 dollars for each minute of calls. For how many minutes of calls will the costs of the two plans be equal?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "5018",
+    "equation": "-273.0+m+n = 0, (-1.6*m)+n = 0",
+    "question": "In 1 day , a store sold 1.6 as many DVDs as CDs. The total number of DVDs and CDs sold that day was 273. How many DVDs were sold?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "222",
+    "equation": "(6.0*m)+(2.0*n)+-1200.0 = 0, (-7.0*m)+n = 0",
+    "question": "Wal-Mart sells thermometers for 2 dollars and hot-water bottles for 6 dollars . In December , Wal-Mart 's total sales for these two items was 1200 dollars. Customers bought 7 times as many thermometers as hot-water bottles. How many thermometers did Wal-Mart sell? How many hot-water bottles?",
+    "template": "(a*m)+(b*n)+-c = 0, (-d*m)+n = 0"
+  },
+  {
+    "index": "1294",
+    "equation": "(2.0*m)+(7.0*n)+-172.0 = 0, -4.0+-m+n = 0",
+    "question": "Steve purchased tickets to a circus for 7 adults and 2 children. The total cost was 172 dollars. The cost of a child 's ticket was 4 dollars less than the cost of an adult 's ticket. Find the price of an adult 's ticket and a child 's ticket.",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "17",
+    "equation": "(2.0*m)+(4.0*n)+-100.0 = 0, -40.0+m+n = 0",
+    "question": "Your teacher is giving you a test worth 100 points containing 40 questions. There are 2-point and 4-point questions on the test. How many questions are worth two points? How many questions are worth four points?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3045",
+    "equation": "-168.0+m+n = 0, (-5.0*m)+n = 0",
+    "question": "A rancher raises 5 times as many cows as horses. If he has 168 animals , how many cows does he have?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "2244",
+    "equation": "(5.5*m)+(3.5*n)+-83.5 = 0, -21.0+m+n = 0",
+    "question": "Tickets for adults are 5.50 dollars and tickets for children are 3.50 dollars. How many adult tickets and children 's tickets were purchased if 21 tickets were bought for 83.50 dollars?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7137",
+    "equation": "(479.0*m)+(339.0*n)+-3611.0 = 0, -9.0+m+n = 0",
+    "question": "In 1 week , a music store sold 9 guitars for a total of of 3611 dollars. Electric guitars sold for 479 dollars each and acoustic guitars sold for 339 dollars each. How many electric guitars were sold? How many acoustic guitars were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6452",
+    "equation": "(4.0*m)+-85.0+(-1.0*n) = 0, -25.0+m+n = 0",
+    "question": "Terry did all 25 problems on his test and got an 85. Scores are computed by giving 4 points for each right answer and subtracting one point for each wrong answer. How many problems did terry get right and wrong?",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2518",
+    "equation": "(5.0*m)+(4.0*n)+-2.0 = 0, (3.0*n)+(4.0*m)+-1.58 = 0",
+    "question": "4 pencils and 5 pens cost a total of 2.00 dollars. 3 pencils and 4 pens cost 1.58 dollars. Find the cost of a pencil and a pen in dollars.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*n)+(b*m)+-e = 0"
+  },
+  {
+    "index": "6945",
+    "equation": "(2.0*m)+-3.0+-n = 0, -51.0+m+n = 0",
+    "question": "1 number is 3 less than twice another number. The sum of the 2 numbers is 51. What is the smaller number? What is the larger number?",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5626",
+    "equation": "(2.8*0.01*m)+(4.5*0.01*n)+-1024.4 = 0, -31000.0+m+n = 0",
+    "question": "Cole 's student loans totaled 31,000 dollars. One of his loans was at 2.8 % simple interest and the other at 4.5 %. After one year , Cole owed 1024.40 dollars in interest. What was the amount of each loan?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6369",
+    "equation": "(3.5*m)+(4.3*n)+(-4.0*10.0) = 0, -10.0+m+n = 0",
+    "question": "X pounds of candy valued at 3.50 dollars per pound is mixed with Y pounds of candy valued at 4.30 dollars per pound to produce 10 pounds of a mixture selling for 4 dollars per pound. Find X and Y , the number of pounds of each type.",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "69",
+    "equation": "(6.0*m)+(4.0*n)+-88.0 = 0, -18.0+m+n = 0",
+    "question": "Jason earns 4.00 dollars per hour working after school and he earns 6.00 dollars per hour working on Saturday. If he works 18 hours in a week and earned 88.00 dollars , how many hours did he work on Saturday?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2247",
+    "equation": "(0.05*m)+(0.1*n)+-2.4 = 0, -30.0+m+n = 0",
+    "question": "Sam has 30 nickels and dimes worth 2.40 dollars. How many nickels does he have?",
+    "template": "(0.05*m)+(0.1*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2963",
+    "equation": "(6.0*m)+(4.0*n)+-2840.0 = 0, -563.0+m+n = 0",
+    "question": "Marc sold 563 tickets for the school play. Student tickets cost 4 dollars and adult tickets cost 6 dollars. Marc 's sales totaled 2840 dollars. How many adult tickets and student tickets did Marc sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1371",
+    "equation": "-14.0+-m+n = 0, -32.0+m+n = 0",
+    "question": "The sum of two numbers is 32 and the difference is 14. Find the two numbers.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "474",
+    "equation": "(20.0*m)+(40.0*n)+-1800.0 = 0, -55.0+m+n = 0",
+    "question": "Two rainstorms occurred in one week in a certain area. The first storm lasted 20 hours , and the second storm lasted 40 hours , for a total 1800 milliliters of rain. What was the rate of rainfall in milliliters per hour for the first and second storms if the sum of the two rates was 55 milliliters per hour?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1309",
+    "equation": "(0.05*m)+(0.1*n)+-2.35 = 0, -33.0+m+n = 0",
+    "question": "Trinidad has 2.35 dollars in nickels and dimes. If she has 33 coins in all , how many nickels does she have? How many dimes does she have?",
+    "template": "(0.05*m)+(0.1*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5652",
+    "equation": "(2.0*m)+(3.0*n)+-7.8 = 0, (5.0*n)+(3.0*m)+-12.7 = 0",
+    "question": "You and a friend go to a Mexican restaurant. You order 2 tacos and 3 enchiladas , and your friend orders 3 tacos and 5 enchiladas. Your bill is 7.80 dollars plus tax , and your friend 's bill is 12.70 dollars plus tax. How much , in dollars , does each taco cost? How much does each enchilada cost?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*n)+(b*m)+-e = 0"
+  },
+  {
+    "index": "3839",
+    "equation": "(6.0*m)+(4.5*n)+-2100.0 = 0, -400.0+m+n = 0",
+    "question": "Tickets for a show cost 6.00 dollars for adults and 4.50 dollars for children. 400 tickets were sold for a total of 2100 dollars. How many adult tickets and how many childrens tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "343",
+    "equation": "(3.75*m)+(2.75*n)+(-3.0*40.0) = 0, -40.0+m+n = 0",
+    "question": "The grocer has peanuts for 3.75 dollars a pound and walnuts for 2.75 dollars a pound. How many pounds of peanuts and walnuts must we mix to get 40 pounds of mixture to sell for 3.00 dollars per pound.",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7110",
+    "equation": "-42.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "There were 42 people. There were twice as many children as adults. How many children attended?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "2121",
+    "equation": "4.9+(0.275*m)+-2.5+(-0.7*m) = 0",
+    "question": "About 4.9 million households had one brand of personal computers in 2001. The use of these computers grew at an average rate of 0.275 million households a year. In 2001 , about 2.5 millions households used another type of computer. The use of these computers grew at an average rate of 0.7 million households a year. How long will it take for the two types of computers to be in the same number of households?",
+    "template": "a+(b*m)+-c+(-d*m) = 0"
+  },
+  {
+    "index": "5321",
+    "equation": "(4.0*m)+(3.0*n)+-124.0 = 0, -36.0+m+n = 0",
+    "question": "A furniture dealer has 36 tables. Some tables have 4 legs and some have 3 legs , but she does n't know how many of each kind there are. She has counted 124 legs in total. How many 4 legged tables are there?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7076",
+    "equation": "(4.6*m)+-7640.0+(-0.6*m) = 0",
+    "question": "Northwest Molded molds plastic handles which cost 0.60 dollars per handle to mold. The fixed cost to run the molding machine is 7640 dollars per week. If the company sells the handles for 4.60 dollars each , how many handles must be molded and sold weekly to break even?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5844",
+    "equation": "-5500.0+m+n = 0, (-4.0*m)+n = 0",
+    "question": "Honda day shift produced 4 times as much as second shift. The total production for the month was 5,500 cars. How many did the day shift produce? How many did the second shift produce?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "2779",
+    "equation": "-66.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "The shoe store has twice as many black shoes as it does brown shoes. The total number of shoes is 66. How many brown shoes are there?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "230",
+    "equation": "-22.0+(-3.0*m)+n = 0, -138.0+m+n = 0",
+    "question": "The sum of 2 numbers is 138. If three times the smaller number is subtracted from the larger number , the result is 22. Find the two numbers.",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5261",
+    "equation": "(50.0*0.01*m)+(80.0*0.01*n)+(-70.0*10.5*0.01) = 0, -10.5+m+n = 0",
+    "question": "One solution contains 50 % alcohol and another solution contains 80 % alcohol. How many liters of 50 % alcohol and 80 % alcohol should be mixed to produce 10.5 liters of a 70 % alcohol solution?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6226",
+    "equation": "(20.0*0.01*m)+(35.0*0.01*n)+-7.5 = 0, -30.0+m+n = 0",
+    "question": "Joe sold 30 peaches from his tree for a total of 7.50 dollars. He sold the small ones for 20 cents each and the large ones for 35 cents each. How many small ones did he sell? How many large ones did he sell?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5629",
+    "equation": "(5.0*m)+(5.0*n)+-270.0 = 0, -8.0+-m+n = 0",
+    "question": "Two cyclists start at the same point and travel in opposite directions. One cyclist travels 8 kilometers per hour faster than the other. If the two cyclists are 270 kilometers apart after 5 hours what is the rate of each cyclist?",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "2617",
+    "equation": "30.0+-26.48+(-16.0*0.01*m) = 0",
+    "question": "Latoya purchased a prepaid phone card for 30 dollars. Long distance calls cost 16 cents a minute using this card. Latoya used her card only once to make a long distance call. If the remaining credit on her card is 26.48 dollars , how many minutes did her call last?",
+    "template": "a+-b+(-c*0.01*m) = 0"
+  },
+  {
+    "index": "32",
+    "equation": "(23.46*m)+(27.98*n)+-537.0 = 0, (-3.0*m)+n = 0",
+    "question": "You have exactly 537 dollars to spend on party gifts for your rich uncle 's birthday party. You decide to get watches for the ladies at 27.98 dollars each , and beepers for the men at 23.46 dollars each. You know that the number of watches required will be 3 times as much as the number of beepers. How many watches do you buy? How many beepers do you buy?",
+    "template": "(a*m)+(b*n)+-c = 0, (-d*m)+n = 0"
+  },
+  {
+    "index": "2596",
+    "equation": "(3.0*m)+(2.0*n)+-6.25 = 0, -0.25+-m+n = 0",
+    "question": "David bought 3 hamburgers and 2 servings of french fries at Diane 's Drive Up for 6.25 dollars. If a serving of fries costs 0.25 cents more then a hamburger , what is the cost of a hamburger and what is the cost of a serving of french fries?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "5870",
+    "equation": "-7.43+-m+n = 0, -80.34+m+n = 0",
+    "question": "The total cost of a shirt and a sweater is 80.34 dollars. If the price of the shirt is 7.43 dollars less than the sweater , what was the price of the shirt , in dollars?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "3054",
+    "equation": "(20.0*m)+(30.0*n)+-1600.0 = 0, -60.0+m+n = 0",
+    "question": "Advance tickets to a show cost 20 , and same-day tickets cost 30. The total number of tickets sold was 60 for total receipts of 1,600. How many advance tickets were sold? How many same-day tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3595",
+    "equation": "(5.0*m)+(5.0*n)+-275.0 = 0, -15.0+-m+n = 0",
+    "question": "2 cars start at the same place and time , and travel in opposite directions. One car is traveling 15 kilometers per hour faster than the other. After 5 hours , the 2 cars are 275 km apart. Find the speed of each car.",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "3631",
+    "equation": "(4.0*m)+(6.0*n)+-72.0 = 0, -15.0+m+n = 0",
+    "question": "The Rocket Coaster has 15 cars , some that hold 4 people and some that hold 6 people. There is room for 72 people altogether. How many 4 passenger cars are there? How many 6 passenger cars are there?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6739",
+    "equation": "(2.5*m)+-20.0 = 0, (-3.5*m)+n = 0",
+    "question": "If 2.5 costs 20 dollars , how much does 3.5 cost , in dollars?",
+    "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  },
+  {
+    "index": "2095",
+    "equation": "(0.05*m)+(0.1*n)+-2.1 = 0, -30.0+m+n = 0",
+    "question": "Amber has 30 coins in nickels and dimes. In all she has 2.10 dollars. How many nickels and dimes does she have?",
+    "template": "(0.05*m)+(0.1*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "704",
+    "equation": "-10.0+-m+n = 0, -98.0+m+n = 0",
+    "question": "Yuri has a board that 98 inches long. He wishes to cut the board into 2 pieces so that one piece will be 10 inches longer than the other. What should the length of the shorter piece be , in inches? What will the length of the longer piece be?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6624",
+    "equation": "17.0+-5.0+(-2.0*m) = 0",
+    "question": "Twice a number increased by 5 is 17. Find the number.",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5710",
+    "equation": "(3.2*m)+(1.7*n)+(-2.0*5.0) = 0, -5.0+m+n = 0",
+    "question": "A candy store wishes to mix 2 types of candy to get 5 pounds of 2 dollars per pound candy. If candy A costs 3.20 dollars per pound and candy B costs 1.70 dollars per pound , how many pounds of candy A and candy B should be mixed?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6960",
+    "equation": "48.0+-36.0+(-3.0*m) = 0",
+    "question": "36 more than the product of three and x is the same as 48. Solve for x.",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "6417",
+    "equation": "(5.75*0.01*m)+(6.25*0.01*n)+-1900.0 = 0, -32000.0+m+n = 0",
+    "question": "A total of 32,000 dollars is invested in 2 municipal bonds that pay 5.75 % and 6.25 % simple interest. The investor wants an annual interest income of 1900 dollars from the investments. What amount should be invested in the 5.75 % bond?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5894",
+    "equation": "-2.0+-m+n = 0, -30.0+m+n = 0",
+    "question": "The sum of two consecutive even integers is at most 30. What are the greatest possible consecutive even integers?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2677",
+    "equation": "-24.0+-m+n = 0, -108.0+m+n = 0",
+    "question": "1. Find the 2 numbers whose sum is 108 and whose difference is 24.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6334",
+    "equation": "(2.0*m)+(3.0*n)+-43.0 = 0, -20.0+m+n = 0",
+    "question": "The Lakers scored 43 points on a combination of 20 two point baskets and three point baskets. How many shots of two point baskets and how many shots of three point baskets were made?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5514",
+    "equation": "(50.0*m)+(80.0*n)+-980.0 = 0, (60.0*m)+(90.0*n)+-1140.0 = 0",
+    "question": "For the first performance of a play in a community theater , 50 reserved-seat tickets and 80 general-admission tickets were sold. The total receipts were 980 dollars. For the second performance , 60 reserved-seat tickets and 90 general-admission tickets were sold. The total receipts were 1140 dollars. Find the price of a reserved-set ticket , in dollars. Find the price of a general-admission ticket.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "6383",
+    "equation": "(4.0*m)+(7.0*n)+(-5.0*42.0) = 0, -42.0+m+n = 0",
+    "question": "a grocer wants to mix nuts which sell for rs 4 per kilo with nuts which sell for rs 7 per kilo in order to make a mixture which could sell for rs 5 per kilo. How many kilos of each should he mix to get a mixture of 42 kilos?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3202",
+    "equation": "(21.75*m)+-56430.0+(-8.25*m) = 0",
+    "question": "A small publishing company has a 1 time product cost for editing and printing of 56,430.00 dollars. Variable cost per book is 8.25 dollars. The publisher is selling the book to the store for 21.75 dollars. How many books must the publisher print and sell so that the production cost will equal the money obtained from sells?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "7536",
+    "equation": "(5.0*m)+(2.0*n)+-92.0 = 0, -25.0+m+n = 0",
+    "question": "Cashews sell for 5.00 dollars a pound and peanuts sell for 2.00 dollars a pound. How many pounds of peanuts and cashews would you use to make 25 pounds of a mixure that sells for 92 dollars?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1332",
+    "equation": "(4.0*m)+(-11.0*n) = 0, -450.0+m+n = 0",
+    "question": "A new parking lot has spaces for 450 cars. The ratio of spaces for full sized cars to compact cars is 11 to 4. How many spaces are for full-sized cars? How many spaces are for compact cars?",
+    "template": "(a*m)+(-b*n) = 0, -c+m+n = 0"
+  },
+  {
+    "index": "2584",
+    "equation": "(6.0*0.01*m)+(9.0*0.01*n)+-189.0 = 0, -2400.0+m+n = 0",
+    "question": "A person wishes to invest 2,400.00 dollars , part at 9 % and part at 6 %. If the total interest desired at the end of the year is 189.00 dollars , how much should be invested at each rate?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "371",
+    "equation": "(7.0*m)+(-5.0*n) = 0, -24.0+m+n = 0",
+    "question": "The sum of 2 numbers is 24. Seven times the smaller number is the same as 5 times the larger number. Find the smaller number.",
+    "template": "(a*m)+(-b*n) = 0, -c+m+n = 0"
+  },
+  {
+    "index": "6448",
+    "equation": "(3.0*m)+(4.0*n)+-84.0 = 0, (2.0*n)+(4.0*m)+-62.0 = 0",
+    "question": "For a special event at the TCR spring fest , the cost of 3 adult tickets and 4 student tickets was 84 dollars and the cost of 4 adult tickets and 2 student tickets was 62 dollars. Find the admission price for an adult ticket and for a student ticket at the spring fest , in dollars.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*n)+(b*m)+-e = 0"
+  },
+  {
+    "index": "6322",
+    "equation": "(2.0*m)+(4.0*n)+-60.0 = 0, -22.0+m+n = 0",
+    "question": "There are 22 chickens and cows on a farm. Together they have 60 legs. How many chickens are there? How many cows?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6716",
+    "equation": "(10.0*0.01*m)+(60.0*0.01*n)+(-30.0*50.0*0.01) = 0, -50.0+m+n = 0",
+    "question": "How many milliliters of a 10 % HCL solution should be combined with a 60 % HCL solution in order to get 50 milliliters of a 30 % HCL solution?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7053",
+    "equation": "(2.0*0.01*m)+(3.0*0.01*n)+-11.0 = 0, -450.0+m+n = 0",
+    "question": "A woman has 450 dollars invested , part at 2 % and the remainder at 3 % simple interest. If the total annual income is 11 dollars , how much is invested at 2 % , in dollars? How much is invested at 3 %?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6925",
+    "equation": "(60.0*0.01*m)+(25.0*0.01*n)+-140.0 = 0, -280.0+m+n = 0",
+    "question": "Admission tickets to a football game were 60 cents for adults and 25 cents for children. Receipts for the day showed that 280 persons attended and 140 dollars was collected. How many adults attended? How many children attended?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "353",
+    "equation": "(0.25*m)+(0.35*n)+-192.0 = 0, -600.0+m+n = 0",
+    "question": "A baseball player has a batting average of 0.320 with 192 hits in 600 bats. His average against left-handed pitching is 0.250. Against right-handed pitching it is 0.350. How many times did he bat against left-handers?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "171",
+    "equation": "(12.0*m)+(4.0*n)+-840.0 = 0, -130.0+m+n = 0",
+    "question": "Tickets for a play at the community theater cost 12 dollars for an adult and 4 dollars for a child. If 130 tickets were sold and the total receipts were 840 dollars , how many adult tickets and child tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6075",
+    "equation": "(2.0*m)+(4.0*n)+-34.0 = 0, -15.0+m+n = 0",
+    "question": "Old McDonald has 15 goats and chickens on his farm. The animals combined have a total of 34 legs. Assuming there are no physical defects , how many goats are on the farm? How many chickens are on the farm?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2075",
+    "equation": "(3.0*m)+-2.0+(-4.0*n) = 0, -10.0+m+n = 0",
+    "question": "The sum of 2 numbers is 10. 3 times one of them is more than 4 times the second by 2. Find the smaller number. Find the larger number.",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5145",
+    "equation": "(3.0*m)+-6.0+(-2.0*m) = 0",
+    "question": "If 6 is subtracted from three times a number , the difference is twice the number. What is the number?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "7412",
+    "equation": "(8.0*m)+(5.0*n)+-201.0 = 0, -33.0+m+n = 0",
+    "question": "Admission to an amusement park is 8 dollars for adults and 5 dollars for children. If 201 dollars was paid for 33 tickets , how many adult tickets were purchased? How many children 's tickets were purchased?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3245",
+    "equation": "(0.6667*m)+-7.0+-n = 0, -127.0+m+n = 0",
+    "question": "Class A and class B donated their class fund totaling 127 dollars to an orphanage. If the amount donated by class A is 7 dollars short of 0.6667 of the amount donated by class B. How much did Class A Donate? How much to class B donate?",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5484",
+    "equation": "(7.0*m)+(3.0*n)+-1110.0 = 0, (5.0*m)+(4.0*n)+-1350.0 = 0",
+    "question": "7 audio cassettes and 3 video cassettes cost rs 1110 , while 5 audio cassettes and 4 video cassettes cost rs 1350. Find the cost of an audio cassette and a video cassette.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "5711",
+    "equation": "(10.0*0.01*m)+(8.0*0.01*n)+-460.0 = 0, -5000.0+m+n = 0",
+    "question": "A student inherited 5000 dollars. She invested part of it at 10 % and the rest at 8 %. If her total interest amounted to 460 dollars , how much did she invest at 10 %? At 8 %?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5089",
+    "equation": "(2.0*m)+(4.0*n)+-126.0 = 0, -40.0+m+n = 0",
+    "question": "A farmer had some chickens and some cows. She counted 40 heads and 126 legs. How many chickens and how many cows did she have?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6505",
+    "equation": "-69.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "A 69 inch board is cut into 2 pieces. One piece is 2 times the length of the other. What is the length of the shorter piece , in inches? What is the length of the longer piece?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "6300",
+    "equation": "(10.0*m)+(4.0*n)+-450.0 = 0, -60.0+m+n = 0",
+    "question": "An athlete can burn 10 calories per minute while running and 4 calories per minute while walking. If the athlete burns 450 calories in 60 minutes , how many minutes are spent running? How many minutes are spent walking?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1362",
+    "equation": "(10.0*0.01*m)+(1.0*0.01*n)+-1390.0 = 0, -31000.0+m+n = 0",
+    "question": "Janet invested 31,000 dollars , part at 10 % and part at 1 %. If the total interest at the end of the year is 1,390 dollars , how much did she invest at 10 %?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6666",
+    "equation": "(2.0*m)+-1.0+-n = 0, --64.0+m+n = 0",
+    "question": "Two times the first number is one more than the second number. If their sum is -64 , what are the two numbers?",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5632",
+    "equation": "-36.0+-m+n = 0, -162.0+m+n = 0",
+    "question": "During 2005 major league baseball season , the Chicago White Sox played 162 games. They won 36 more than they lost. How many games did they win , and how many did they lose?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6804",
+    "equation": "(0.75*m)+-28.0+(-0.4*m) = 0",
+    "question": "The difference between 0.75 of a line and 0.4 of the same line is 28 centimeters. Find the length of the line.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "1937",
+    "equation": "-7.0+(-5.0*m)+n = 0, -73.0+m+n = 0",
+    "question": "The sum of two numbers is 73. The second is 7 more than 5 times the first. What is the first number and what is the second one?",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "3036",
+    "equation": "(7.5*m)+(4.5*n)+-540.0 = 0, -80.0+m+n = 0",
+    "question": "A movie theater charges 7.50 dollars for adults and 4.50 dollars for children. The receipts for a showing of a movie were 540 dollars. If 80 tickets were sold , find how many adult tickets were sold. Find how many child tickets were sold.",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2658",
+    "equation": "(14.0*m)+(4.0*n)+-502.0 = 0, (10.0*m)+(3.0*n)+-370.0 = 0",
+    "question": "2 teachers are going to a conference for a few days. Mrs. Jerrerson plans on spending 502 dollars on 14 meals and 4 nights in a hotel. Mrs. Lloyd plans on spending 370 dollars on 10 meals and 3 nights in a hotel. How much are they planning on spending per meal and per night for a hotel?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "6853",
+    "equation": "(10.0*(-m+n))+-4000.0 = 0, (8.0*(m+n))+-4000.0 = 0",
+    "question": "A direct flight on delta air lines from Atlanta to Paris is 4000 miles and takes approximately 8 hours going East and 10 hours going West. Although the plane averages the same airspeed , there is a headwind while traveling East , resulting in a different air speeds. What is the average air speed of the plane in miles per hour and the average wind speed?",
+    "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
+  },
+  {
+    "index": "6317",
+    "equation": "(4.0*m)+(-2.0*n) = 0, -12.0+m+n = 0",
+    "question": "Cynthia works at a grocery store. She knows that for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans. This week she ordered a total of 12 cans. How many cans of chili beans did she order?",
+    "template": "(a*m)+(-b*n) = 0, -c+m+n = 0"
+  },
+  {
+    "index": "2222",
+    "equation": "(2.0*(-m+n))+-780.0 = 0, (1.5*(m+n))+-780.0 = 0",
+    "question": "Dave and Sandy fly from Philly to Chicago , it takes 2 hours to go West and 1.5 hours to fly East. The trip is 780 miles one way. If the wind speed is the same on each trip , find the speed of the wind and find the speed of the plane in the still air , in miles per hour.",
+    "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
+  },
+  {
+    "index": "3159",
+    "equation": "(5.0*0.01*m)+(10.0*0.01*n)+(-9.0*50.0*0.01) = 0, -50.0+m+n = 0",
+    "question": "Maria added a white vinegar solution of acetic acid in water. There are 2 strengths of white vinegar, a 5 % solution and a 10 % solution. How many milliliters of the 5 % solution and the 10% solution must she mix to make 50 milliliters of a 9 % vinegar solution?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3079",
+    "equation": "(8.0*m)+(4.0*n)+-964.0 = 0, -201.0+m+n = 0",
+    "question": "The Jurassic Zoo charges 8 dollars for each adult and 4 dollars for each child. Total bill for the 201 people was 964 dollars. How many children were at the zoo?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6444",
+    "equation": "(7.0*m)+-12.0+(-3.0*m) = 0",
+    "question": "Seven times a number is the same as 12 more than 3 times the number. Find the number.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5249",
+    "equation": "(8.75*m)+(3.75*n)+(-6.35*100.0) = 0, -100.0+m+n = 0",
+    "question": "Joey makes 100 pounds of a coffee mix. Columbian coffee selling for 8.75 dollars per pound is mixed with Brazilian coffee selling for 3.75 dollars per pound. The final mix sells for 6.35 dollars per pound. How much of each type of coffee is used in the mix?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6426",
+    "equation": "(0.35*m)+(0.65*n)+-29.15 = 0, -55.0+m+n = 0",
+    "question": "You have space in your garden for 55 small flowering bulbs. Crocus bulbs cost 0.35 dollars each and daffodil bulbs cost 0.65 dollars each. Your budget allows you to spend 29.15 dollars on bulbs. How many crocus bulbs and daffodil bulbs can you buy?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6640",
+    "equation": "(4.0*m)+(2.0*n)+-530.0 = 0, (7.0*m)+(3.0*n)+-875.0 = 0",
+    "question": "If 530 pesos can buy 4 kilograms of fish and 2 kilograms of pork while 875 pesos can buy 7 kilograms of fish and 3 kilograms of pork , how much does a kilogram of fish cost?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "767",
+    "equation": "(2.0*m)+-6.0+-n = 0, -18.0+m+n = 0",
+    "question": "The sum of two numbers is 18. If twice the smaller number is 6 more than the larger , find the smaller number and the larger number.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "1637",
+    "equation": "(4.0*m)+(6.0*n)+-2876.0 = 0, -525.0+m+n = 0",
+    "question": "Tickets cost 4 dollars for students , and 6 dollars for general admission. You sell 525 tickets and collect 2876 dollars. How many student tickets did you sell , and how many general admission tickets did you sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1939",
+    "equation": "(5.0*m)+(8.0*n)+-840.0 = 0, (3.0*m)+(4.0*n)+-480.0 = 0",
+    "question": "A customer walks into an electronics store and buys 5 MP3 players and 8 sets of headphones , paying 840 dollars. A 2nd customer buys 3 MP3 players and 4 sets of headphones , and pays 480 dollars. How much does an MP3 player cost? How much does a set of headphones cost?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "5007",
+    "equation": "(5.0*m)+-10.0+(-2.0*n) = 0, -30.0+m+n = 0",
+    "question": "The sum of 2 integers is 30. 2 times the larger integer is 10 less than 5 times the smaller integer. Find the smaller number and larger number.",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2359",
+    "equation": "(25.0*m)+(35.0*n)+-2275.0 = 0, -75.0+m+n = 0",
+    "question": "In a family there are two cars. The sum of the average miles per gallon obtained by the two cars in a particular week is 75 miles per gallon. The first car has consumed 25 gallons during that week , and the second has consumed 35 gallons , for a total of 2275 miles driven by the two cars combined. What was the average gas mileage obtained by the first car that week? What was the average gas mileage obtained by the second car that week?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "20",
+    "equation": "(38.0*m)+(61.0*n)+-791.5 = 0, (54.0*m)+(50.0*n)+-923.0 = 0",
+    "question": "A hotel purchased 38 bath towels and 61 washcloths for a total cost of 791.50 dollars. A second purchase of 54 bath towels and 50 washcloths , at the same prices , cost 923 dollars. Find the individual prices of the bath towels and washcloths.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "2291",
+    "equation": "(45.0*0.01*m)+(70.0*0.01*n)+(-60.0*10.0*0.01) = 0, -10.0+m+n = 0",
+    "question": "To make 10 kilograms of aluminum alloy with 60 % aluminum , a scientist wants to use 2 metals with 45 % and 70 % aluminum content respectively. How many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum should she mix?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2040",
+    "equation": "(25.0*m)+(40.0*n)+-1825.0 = 0, -55.0+m+n = 0",
+    "question": "In a family there are two cars. In a given week , the first car gets an average of 25 miles per gallon , and the second car gets 40 miles per gallon. The two cars combined drives a total of 1825 miles in that one week , for a total gas consumption of 55 gallons. How many gallons were consumed by the 25 mile per gallon car and how many gallons were consumed by the 40 mile per gallon car that week?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6459",
+    "equation": "(32.0*0.01*m)+(12.0*0.01*n)+(-20.0*50.0*0.01) = 0, -50.0+m+n = 0",
+    "question": "A chemist is mixing a solution that is 32 % sodium and another solution that is 12 % sodium. How many liters of 32 % and 12 % solution should the chemist use to produce 50 liters of the solution that is 20 % sodium?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2570",
+    "equation": "(3.0*m)+(5.0*n)+-110.0 = 0, -30.0+m+n = 0",
+    "question": "A teacher gives out a test of 30 problems. Each computation problem is worth 3 points. Each word problem is worth 5 points. The total points you can receive on the test is 110 points. How many computation problems are there?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "460",
+    "equation": "(5.0*m)+(3.0*n)+-6138.0 = 0, -1510.0+m+n = 0",
+    "question": "You are selling tickets to your school musical. Adult tickets cost 5 dollars and children 's tickets cost 3 dollars. You sell 1510 tickets and collect 6138 dollars. Determine How many adult tickets were sold? How many children 's tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2567",
+    "equation": "(2.25*0.01*m)+(4.0*0.01*n)+-970.0 = 0, -33000.0+m+n = 0",
+    "question": "Donna invested her 33,000 dollars bonus and received a total of 970 dollars in interest after one year. If part of the money returned 4 % and the remainder 2.25 % then how much did she invest at each rate?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5117",
+    "equation": "(14.8*m)+(17.0*n)+-91.0 = 0, -6.0+m+n = 0",
+    "question": "Your family goes to a restaurant for dinner. There are 6 people in your family. Some order the chicken dinner for 14.80 dollars and some order the steak dinner for 17.00 dollars. If the total bill was 91.00 dollars , how many people ordered the steak dinner. How many people ordered the chicked dinner?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2555",
+    "equation": "-11.0+-m+n = 0, -99.0+m+n = 0",
+    "question": "The US Senate had a total of 99 Democrats and Republicans. There were 11 more Republicans than Democrats. How many Democrats and Republicans were there in the Senate?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "7070",
+    "equation": "(5.0*0.01*m)+(10.0*0.01*n)+(-9.0*50.0*0.01) = 0, -50.0+m+n = 0",
+    "question": "White vinegar is a solution of acetic acid in water. There are two strengths of white vinegar , a 5 % solution and a 10 % solution. How many milliliters of each solution must be mixed to make 50 milliliters of a 9 % vinegar solution?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1707",
+    "equation": "-45.0+m+n = 0, (-4.0*m)+n = 0",
+    "question": "Find the two numbers whose sum is 45 and such that one is 4 times as large as the other.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "6949",
+    "equation": "(0.05*m)+(0.1*n)+-17.55 = 0, -207.0+m+n = 0",
+    "question": "A child has 17.55 dollars worth of nickels and dimes in her piggy bank. There are a total of 207 coins. How many nickels does she have? How many dimes does she have?",
+    "template": "(0.05*m)+(0.1*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "1679",
+    "equation": "(21.0*m)+(15.0*n)+-8748.0 = 0, -510.0+m+n = 0",
+    "question": "University Theater sold 510 tickets for a play. Tickets cost 21 dollars per adult and 15 dollars per senior citizen. If total receipts were 8748 dollars , how many senior citizen tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6139",
+    "equation": "(3.0*m)+(-8.0*n) = 0, -143.0+m+n = 0",
+    "question": "Two numbers are in the ratio 8 to 3. If the sum of numbers is 143 , find the numbers.",
+    "template": "(a*m)+(-b*n) = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5997",
+    "equation": "(50.0*m)+(64.0*m)+-285.0 = 0",
+    "question": "2 trains leave simultaneously traveling on the same track in opposite directions at speeds of 50 and 64 miles per hour. How many hours will it take before they are 285 miles apart?",
+    "template": "(a*m)+(b*m)+-c = 0"
+  },
+  {
+    "index": "3648",
+    "equation": "-14.0+m+n = 0, (-3.0*m)+n = 0",
+    "question": "Find two numbers whose sum is 14 if one number is 3 times as large as the other number.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "6079",
+    "equation": "(6.0*m)+(2.0*n)+-750.0 = 0, -175.0+m+n = 0",
+    "question": "Tickets at a local theater cost 6 dollars for adults and 2 dollars dollars for kids under twelve. If 175 tickets were sold and the profit was 750 dollars , how many kid tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "4209",
+    "equation": "(28.0*m)+(12.0*n)+-3864.0 = 0, -254.0+m+n = 0",
+    "question": "254 people go to a zoo. Tickets are 28 dollars for adults and 12 dollars for kids. Total sales are 3,864 dollars. How many adults went to zoo? How many kids?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2756",
+    "equation": "(3.5*m)+(7.0*n)+-1347.5 = 0, -250.0+m+n = 0",
+    "question": "The St. Mark 's Community Barbecue served 250 dinners. A child 's plate cost 3.50 dollars and an adult 's plate cost 7.00 dollars. A total of 1347.50 dollars was collected. How many child 's plates were served? How many adult 's plates were served?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5843",
+    "equation": "(6.0*m)+(2.0*n)+-1200.0 = 0, (-7.0*m)+n = 0",
+    "question": "Wal-Mart sells thermometers for 2 dollars, and hot-water bottles for 6 dollars. Total sales for these 2 items during the month of January was 1,200 dollars. There were 7 times as many thermometers as hot-water bottles sold. How many thermometers were sold? How many hot-water bottles?",
+    "template": "(a*m)+(b*n)+-c = 0, (-d*m)+n = 0"
+  },
+  {
+    "index": "586",
+    "equation": "(40.0*0.01*m)+(55.0*0.01*n)+(-45.0*60.0*0.01) = 0, -60.0+m+n = 0",
+    "question": "A 40 % acid solution and a 55 % acid solution must be mixed to produce 60 liters of a 45 % acid solution. How many liters of 40 % acid solution should be used? How many liters of 55 % acid solution should be used?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "27",
+    "equation": "(6.0*0.01*m)+(9.0*0.01*n)+-684.0 = 0, -10000.0+m+n = 0",
+    "question": "Suppose you invested 10,000 dollars , part at 6 % annual interest and the rest at 9 % annual interest. If you received 684 dollars in interest after one year , how much did you invest at 6 % annual interest and at 9 % annual interest?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6540",
+    "equation": "(-0.3333/2.0)+m = 0",
+    "question": "A recipe calls for 2 cups of sugar. You find that you only have 0.3333 cups of sugar left. What fraction of the recipe can you make?",
+    "template": "(-a/b)+m = 0"
+  },
+  {
+    "index": "5115",
+    "equation": "(4.0*m)+(2.5*n)+-222.5 = 0, -59.0+m+n = 0",
+    "question": "Tickets to a local movie were sold at 4 dollars for adults and 2.50 dollars for students. If 59 tickets were sold for a total of 222.50 dollars , how many student tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6408",
+    "equation": "(0.4*m)+-848.0 = 0",
+    "question": "0.4 of Joe 's income each month goes to taxes. If she pays 848 dollars in taxes each month , what is her monthly income in dollars?",
+    "template": "(a*m)+-b = 0"
+  },
+  {
+    "index": "1035",
+    "equation": "1500.0+-1250.0+(-5.0*0.01*m) = 0",
+    "question": "Jordan 's salary is 1250 dollars a month plus a 5 % commission on all of his sales. What must the amount of his sales be , in dollars , for him to earn at least 1500 dollars each month?",
+    "template": "a+-b+(-c*0.01*m) = 0"
+  },
+  {
+    "index": "6546",
+    "equation": "(25.0*0.01*m)+(75.0*0.01*n)+(-55.0*50.0*0.01) = 0, -50.0+m+n = 0",
+    "question": "A petroleum company has two different sources of crude oil. The first source provides crude oil that is 25 % hydrocarbons and the second one provides crude oil that is 75 % hydrocarbons. In order to obtain 50 gallons of crude oil that is 55 % hydrocarbons , how many gallons of crude oil must be used from each of the two sources?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "370",
+    "equation": "(0.05*m)+(0.1*n)+-3.1 = 0, -36.0+m+n = 0",
+    "question": "Steve has 36 coins consisting of dimes and nickels. If the value of the coins is 3.10 dollars , then how many dimes does he have?",
+    "template": "(0.05*m)+(0.1*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5846",
+    "equation": "8.0+-34.0+m = 0",
+    "question": "The selling price of a pair of pants is 34 dollars. If the store paid 8 dollars less for the pants , find the price that the store paid , in dollars.",
+    "template": "a+-b+m = 0"
+  },
+  {
+    "index": "1669",
+    "equation": "(40.0*0.01*m)+(85.0*0.01*n)+(-60.0*1800.0*0.01) = 0, -1800.0+m+n = 0",
+    "question": "A 40 % sugar solution is added to an 85 % sugar solution to create 1800 milliliters of a 60 % solution. How many milliliters of the 40 % solution should be used? How many millileters of the 85 % solution?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1404",
+    "equation": "(31.95*m)+(18.95*n)+-5108.3 = 0, -214.0+m+n = 0",
+    "question": "A department store held a sale to sell all of the 214 winter jackets that remained after the season ended. Until noon , each jacket in the store was priced at 31.95 dollars. At noon , the price of the jackets was further reduced to 18.95 dollars. After the last jacket was sold , the total receipts for the clearance sale were 5108.30 dollars. How many jackets were sold before noon and how many jackets were sold after noon?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "200",
+    "equation": "8.0+-2.0+(-0.75*m) = 0",
+    "question": "The sum of 0.75 of a number and two is eight. Find the number.",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5783",
+    "equation": "(5.0*m)+-11.0+(-3.0*n) = 0, -15.0+m+n = 0",
+    "question": "The sum of 2 numbers is 15. 3 times one of the numbers is 11 less than 5 times the other. What is the smaller number? What is the larger number?",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2973",
+    "equation": "(4.0*m)+-7.0+-13.0 = 0",
+    "question": "7 less than 4 times a number equals 13. What is the number?",
+    "template": "(a*m)+-b+-c = 0"
+  },
+  {
+    "index": "6375",
+    "equation": "(150.0*m)+(120.0*n)+-930.0 = 0, -7.0+m+n = 0",
+    "question": "A bricklayer lays an average of 150 bricks per hour. During a job , he is called away and replaced by a less experienced man , who averages 120 bricks per hour. The two men laid 930 bricks in 7 hours. How long did each work?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2004",
+    "equation": "(6.0*m)+(12.0*n)+-16200.0 = 0, -1500.0+m+n = 0",
+    "question": "The Drama Club sold 1,500 tickets for the end-of-year-performance. Admission prices were 12 dollars for adults and 6 dollars for students. The total amount collected at the box office was 16,200 dollars. How many students attended the play? How many adult attended the play?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5842",
+    "equation": "(2.0*m)+-16.0+-n = 0, -68.0+m+n = 0",
+    "question": "The number of boys in eighth grade is 16 less than twice the number of girls. There are 68 students in eighth grade. How many are girls?",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "2455",
+    "equation": "(2.0*m)+-16.0+(-3.0*n) = 0, -43.0+m+n = 0",
+    "question": "The sum of 2 numbers is 43. Twice the larger number exceeds 3 times the smaller number by 16. Find the number.",
+    "template": "(a*m)+-b+(-c*n) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2849",
+    "equation": "(-500.0/6.0)+m = 0",
+    "question": "It took me 6 minutes to walk 500 meters. How fast was I travelling?",
+    "template": "(-a/b)+m = 0"
+  },
+  {
+    "index": "3769",
+    "equation": "-30.0+m+n = 0, (-4.0*m)+n = 0",
+    "question": "Paul has 30 postcards. He has 4 times as many large postcards as small postcards. How many small postcards does he have? How many large postcards?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "271",
+    "equation": "(4.0*m)+(6.0*n)+-2876.0 = 0, -525.0+m+n = 0",
+    "question": "Student tickets cost 4 dollars and general admission tickets cost 6 dollars. You sell 525 tickets and collect 2876 dollars. How many student tickets did you sell? How many general admission tickets did you sell?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5001",
+    "equation": "-2.93+-m+n = 0, -70.93+m+n = 0",
+    "question": "The total cost of a pair of pants and a belt was 70.93 dollars. If the price of the pair of pants was 2.93 dollars less than the belt , what was the price of the pair of pants?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5456",
+    "equation": "(2.4*m)+(6.0*n)+(-3.0*60.0) = 0, -60.0+m+n = 0",
+    "question": "A merchant wants to combine peanuts selling 2.40 dollars per pound and cashews selling for 6.00 dollars per pound to form 60 pounds which will sell at 3.00 dollars per pound. What amount of peanuts and what amount of cashews must be used?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "430",
+    "equation": "-12.0+-m+n = 0, -150.0+m+n = 0",
+    "question": "Marco has 150 coins , all nickels and dimes. He has 12 more dimes than nickels. How many nickels and how many dimes does he have?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "3393",
+    "equation": "-80.0+-m+n = 0, -240.0+m+n = 0",
+    "question": "A farmer grows only sunflowers and flax on his 240 acre farm. This year he wants to plant 80 more acres of sunflowers than flax. How many acres of sunflowers does the farmer need to plant? How many acres of flax?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6239",
+    "equation": "(4.0*m)+(4.0*n)+-380.0 = 0, -15.0+-m+n = 0",
+    "question": "2 high speed trains are 380 miles apart and traveling toward each other. They meet in 4 hours. If one train is 15 miles per hour faster than the other , find the speed of the slower train in miles per hour. Find the speed of the faster train.",
+    "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
+  },
+  {
+    "index": "6279",
+    "equation": "(7.0*m)+(5.0*n)+-146.0 = 0, -24.0+m+n = 0",
+    "question": "24 is divided in two parts such that 7 time the first part added to 5 times the second part makes 146. What is the first part?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "4035",
+    "equation": "(20.0*m)+(45.0*n)+-6800.0 = 0, -250.0+m+n = 0",
+    "question": "You had 6,800.00 dollars to spend and purchased 250 sets of dishes. If you spent everything , how many 20.00 dollars sets did you purchase? How many 45.00 dollars sets did you purchase?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6958",
+    "equation": "(4.0*m)+(6.0*n)+-148.0 = 0, -32.0+m+n = 0",
+    "question": "During a 4th of July weekend , 32 vehicles became trapped on the Sunshine Skyway Bridge while it was being repaved. A recent city ordinance decreed that only cars with 4 wheels and trucks with six wheels could be on the bridge at any given time. If there were 148 tires that needed to be replaced to due to damage , how many cars and trucks were involved in the incident?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6241",
+    "equation": "(2.0*m)+(4.0*n)+-56.0 = 0, -21.0+m+n = 0",
+    "question": "There are 21 animals total , all sheep and chickens. If there are 56 legs total , how many of the 21 animals are sheep? How many are chickens?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5356",
+    "equation": "(4.0*m)+(3.0*n)+-10.0 = 0, (2.0*n)+(3.0*m)+-7.0 = 0",
+    "question": "Arthur bought 3 hamburgers and 4 hot dogs for 10 dollars. The next day , he bought 2 hamburgers and 3 hot dogs for 7 dollars. How much does a hot dog cost?",
+    "template": "(a*m)+(b*n)+-c = 0, (d*n)+(b*m)+-e = 0"
+  },
+  {
+    "index": "6999",
+    "equation": "(500.0*m)+(1800.0*n)+-84500.0 = 0, -15.0+-m+n = 0",
+    "question": "An auditorium has 500 balcony seats and 1800 main-level seats. If tickets for balcony seats will cost 15 dollars less than tickets for main-level seats , what should the prices be for the main-level seats and prices for the balcony seats , so that the total revenue from a sellout performance will be 84,500?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "6102",
+    "equation": "(80.0*0.01*m)+(30.0*0.01*n)+(-62.0*150.0*0.01) = 0, -150.0+m+n = 0",
+    "question": "E-Chem Testing has a solution that is 80 % base and another that is 30 % base. A technician needs 150 liters of a solution that is 62 % base. The 150 liters will be prepared by mixing the two solutions on hand. How much of the 80 % base and the 30 % base should be used?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2802",
+    "equation": "(7.0*0.01*m)+(9.0*0.01*n)+-970.0 = 0, -12000.0+m+n = 0",
+    "question": "One year Walt invested 12,000 dollars. He invested part of the money at 7 % and the rest at 9 %. He made a total of 970 dollars in interest. How much was invested at 7 %?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2708",
+    "equation": "(12.0*m)+(18.0*n)+-44.46 = 0, -0.22+-m+n = 0",
+    "question": "The cost of 12 gallons of regular gasoline and 18 gallons of premium gasoline is 44.46 dollars. Premium costs 0.22 dollars more per gallon than regular. What is the cost per gallon of each type of gasoline?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "6158",
+    "equation": "(2.0*0.01*m)+(5.0*0.01*n)+(-4.0*24.0*0.01) = 0, -24.0+m+n = 0",
+    "question": "To make a weak solution of 24 liters of 4 % acid , a lab technician will use some premixed solutions : one is 2 % acid and the other is 5 % acid. How many liters of each , respectively , should he use to obtain the desired solution?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2940",
+    "equation": "-178.0+-m+n = 0, -676.0+m+n = 0",
+    "question": "Ilida went to Minewaska Sate Park one day this summer. All of the people at the park were either hiking or bike riding. There were 178 more hikers than bike riders. If there were a total of 676 people at the park , how many were hiking? How many were riding their bikes?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5717",
+    "equation": "(16.0*0.01*m)+(8.0*0.01*n)+(-13.0*320.0*0.01) = 0, -320.0+m+n = 0",
+    "question": "Soybean meal is 16 % protein ; cornmeal is 8 % protein. How many pounds of each should be mixed together in order to get a 320-pound mixture that is 13 % protein?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5824",
+    "equation": "-35.0+m+n = 0, (-0.4*m)+n = 0",
+    "question": "In a class of 35 students the number of girls is 0.4 of the number of boys. Find the number of girls in the class.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "5102",
+    "equation": "-7.0+-m+n = 0, -33.0+m+n = 0",
+    "question": "The number of grocery items on two grocery lists differs by 7. The total number of items is 33. How many items are on each list?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "5121",
+    "equation": "-142.5+-m+n = 0, -5182.5+m+n = 0",
+    "question": "A baseball team has home games on Wednesday and Saturday. The two games together earn 5,182.50 dollars for the team. Wednesdays game generates 142.50 dollars less than Saturdays game. How much money was taken in at Wednesday 's game? How much money was taken in at Saturday 's game?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2205",
+    "equation": "(9.0*m)+(8.0*n)+(-8.4*20.0) = 0, -20.0+m+n = 0",
+    "question": "The Coffee Counter charges 9.00 dollars per pound for Kenyan French Roast coffee and 8.00 dollars per pound for Sumatran coffee. How many pounds of Kenyan French Roast and Sumatran should be used to make a 20-pound blend that sells for 8.40 dollars per pound?",
+    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6151",
+    "equation": "(55.0*m)+(45.0*n)+-955000.0 = 0, -20000.0+m+n = 0",
+    "question": "A concert sells out a 20,000 seat arena. Main seat tickets cost 55 dollars , and back seat tickets for 45 dollars. The concert made 955,000 dollars. How many main seat tickets and back seat tickets were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6469",
+    "equation": "-69.0+-m+n = 0, -485.0+m+n = 0",
+    "question": "A high school graduating class is made up of 485 students. There are 69 more girls than boys. How many boys are in the class?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2023",
+    "equation": "(3.0*m)+(6.0*n)+-104.25 = 0, (4.0*m)+(5.0*n)+-112.15 = 0",
+    "question": "3 Pairs of jeans and 6 shirts costs 104.25 dollars. The cost of 4 jeans and 5 shirts is 112.15 dollars. Find the cost of each pair of jeans and each shirt.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "6826",
+    "equation": "(12.0*m)+(10.0*n)+-416.0 = 0, (-2.0*m)+n = 0",
+    "question": "Maggie has a job working in an office for 10 dollars an hour and another job driving a tractor for 12 dollars an hour. One week she works in the office twice as long as she drives the tractor. Her total income for that week is 416 dollars. How many hours did she spend at the office? How many hours driving the tractor?",
+    "template": "(a*m)+(b*n)+-c = 0, (-d*m)+n = 0"
+  },
+  {
+    "index": "3219",
+    "equation": "-19.0+-m+n = 0, -185.0+m+n = 0",
+    "question": "The world 's oldest bride was 19 yr older than her groom. Together , their ages totaled 185 years. How old was the bride? How old was the groom?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "657",
+    "equation": "(20.0*m)+(30.0*m)+-125.0 = 0",
+    "question": "2 teams of scientists leave a university at the same time in special vans to search for tornadoes. the 1st team travel east at 20 miles per hour and the 2nd team travels west at 30 miles per hour. their radios have a range of 125 miles. How much time will pass before the scientists lose radio contact?",
+    "template": "(a*m)+(b*m)+-c = 0"
+  },
+  {
+    "index": "2892",
+    "equation": "(5.0*m)+(2.0*n)+-2992.0 = 0, -764.0+m+n = 0",
+    "question": "A catering company is setting up tables for a big event that will host 764 people. When they set up the tables they need 2 forks for each child and 5 forks for each adult. If the company ordered a total of 2992 forks , how many adults and how many children will be attending the event?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "4231",
+    "equation": "(3.25*m)+(4.5*n)+-2090.0 = 0, -500.0+m+n = 0",
+    "question": "A discount store sold plastic cups for 3.25 dollars each and ceramic cups for 4.50 dollars each. If 500 cups were sold for a total of 2090 dollars , how many plastic cups and ceramic cups were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "315",
+    "equation": "(30.0*m)+(25.0*n)+-1700.0 = 0, -60.0+m+n = 0",
+    "question": "In a given week , the first car gets an average of 30 miles per gallon , and the second car gets 25 miles per gallon. The two cars combined drive a total of 1700 miles in that week , for a total gas consumption of 60 gallons. How many gallons were consumed by the first car that week? How many gallons were consumed by the second car that week?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2670",
+    "equation": "(40.0*m)+(20.0*n)+-1400.0 = 0, -45.0+m+n = 0",
+    "question": "In a family there are 2 cars. The sum of the average miles per gallon obtained by the two cars in a particular week is 45. The first car has consumed 40 gallons during that week , and the second car has consumed 20 gallons , for a total of 1400 miles driven by the two cars combined. What was the average gas mileage obtained by each of the 2 cars that week?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6323",
+    "equation": "(2.0*m)+(1.0*n)+-960.0 = 0, -610.0+m+n = 0",
+    "question": "There were 610 people at a play. The admission price was 2 dollars for adults and 1 dollars for children. The admission receipts were 960 dollars. How many adults and children attended?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1315",
+    "equation": "(0.5*m)+(0.3333*n)+-11.0 = 0, -27.0+m+n = 0",
+    "question": "The sum of 2 numbers is 27. 0.5 of the first number plus 0.3333 of the second number is 11. Find the smaller and the larger number.",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1220",
+    "equation": "(7.5*0.01*m)+(6.0*0.01*n)+-840.0 = 0, -12000.0+m+n = 0",
+    "question": "Didi invested a total of 12,000 dollars in two accounts paying 7.5 % and 6 % simple interest. If her total return at the end of the first year was 840 dollars , how much did she invest in each account?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "920",
+    "equation": "-24.0+(-2.0*m)+n = 0, -162.0+m+n = 0",
+    "question": "In the 2000-2001 baseball season , the Seattle Mariners tied a league record set by the 1906 Chicago Cubs for most wins in a season. The Mainers won 24 more than twice as many games as they lost. They played 162 regular season games. How many wins and losses did the mariners have?",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "6525",
+    "equation": "(13.6*m)+(3.4*n)+-75.0 = 0, (2.5*m)+(3.7*n)+-15.0 = 0",
+    "question": "One unit of whole wheat flour has 13.6 grams of protein and 2.5 grams of fat. One unit of whole milk has 3.4 grams of protein and 3.7 grams of fat. To the nearest tenth , find the number of units of whole wheat flour and whole milk that must be mixed to make dough that has 75 grams of protein and 15 grams of fat.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "262",
+    "equation": "38.5+-41.5+m = 0",
+    "question": "A physician 's assistant measures a child and finds that his height is 41.5 inches. At his last visit to the doctor's office , the child was 38.5 inches tall. How much did the child grow , in inches?",
+    "template": "a+-b+m = 0"
+  },
+  {
+    "index": "6953",
+    "equation": "(3.5*m)+-9.77 = 0, (-5.6*m)+n = 0",
+    "question": "If 3.5 pounds of ground beef costs 9.77 dollars , how much does 5.6 pounds of ground beef cost?",
+    "template": "(a*m)+-b = 0, (-c*m)+n = 0"
+  },
+  {
+    "index": "44",
+    "equation": "(7.0*m)+(4.0*n)+-3575.0 = 0, -575.0+m+n = 0",
+    "question": "A theater sells children 's tickets for 4 dollars and adult tickets for 7 dollars. One night 575 tickets worth 3575 dollars were sold. How many adult tickets were sold? How many children 's tickets?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6196",
+    "equation": "(4.0*0.01*m)+(6.5*0.01*n)+-245.0 = 0, -5000.0+m+n = 0",
+    "question": "Mario has 5000 pence to invest and decides to invest part of it at 4 % and the rest of it at 6.5 %. If the total interest for the year is  245 pence, how much does Mario has to invest at 4 % rate and how much does she has to invest at 6.5 % rate?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "7143",
+    "equation": "(7.0*m)+(8.0*n)+-130.0 = 0, -17.0+m+n = 0",
+    "question": "Purses cost 7 dollars each. Scarves cost 8 dollars each. 17 combined items sold costing 130 dollars total. How many purses were sold? How many scarves were sold?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6149",
+    "equation": "(2.0*m)+(1.0*n)+-52.0 = 0, -32.0+m+n = 0",
+    "question": "Pedro goes to the market and buys a total of 32 plums and peaches for 52 dollars. A plum costs 2 dollars and a peach costs 1 dollars. How many plums did Pedro buy?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "1089",
+    "equation": "-2.0+-m+n = 0, -2.1+m+n = 0",
+    "question": "A bottle of wine with a cork cost 2.10 dollars. A bottle of wine without a cork costs 2.00 dollars more than the cork. What is the price of the cork?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6254",
+    "equation": "(3.0*m)+(2.0*n)+-12.75 = 0, (5.0*n)+(2.0*m)+-14.0 = 0",
+    "question": "Mrs.Martin bought 3 cups of coffee and 2 bagels and spent 12.75 dollars. Mr.Martin bought 2 cups of coffee and 5 bagels and spent 14.00 dollars. Find the cost of one cup of coffee and the cost of one bagel.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*n)+(b*m)+-e = 0"
+  },
+  {
+    "index": "2990",
+    "equation": "-366.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "A total of 366 tickets were sold for the school play. The number of student tickets sold was two times the number of adult tickets sold. How many adult tickets were sold?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "1366",
+    "equation": "(2.0*m)+-3.0+-24.0 = 0",
+    "question": "The length of a rectangular field is 24 meters. This is 3 meters less than twice the width. Find the width.",
+    "template": "(a*m)+-b+-c = 0"
+  },
+  {
+    "index": "1090",
+    "equation": "(3.0*m)+-16.0+-n = 0, -48.0+m+n = 0",
+    "question": "The sum of two numbers is 48. The difference between three times the smaller number and the larger number is 16. Find the smaller number and the larger number.",
+    "template": "(a*m)+-b+-n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "155",
+    "equation": "-60.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "A piece of rope 60 meters long is cut into two pieces so that the longest piece is twice as long as the shorter piece. How long are the two pieces?",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "38",
+    "equation": "(2.0*m)+(4.0*n)+-100.0 = 0, -41.0+m+n = 0",
+    "question": "There are 41 animals on a farm , each of which is either a pig or a chicken. There are 100 legs altogether. How many pigs are there? How many chickens?",
+    "template": "(2.0*m)+(4.0*n)+-a = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2824",
+    "equation": "(1.0*m)+(2.0*n)+-60.0 = 0, -12.0+-m+n = 0",
+    "question": "Hockey teams receive 2 points when they win and 1 point when they tie. 1 season , a team won a championship with 60 points. They won 12 games more than they tied. How many wins and ties did the team have?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "2142",
+    "equation": "-2.0+-m+n = 0, -3.0+m+n = 0",
+    "question": "On a canoe trip , Rita paddled upstream at an average speed of 2 miles per hour relative to the riverbank. On the return trip downstream, her average speed was 3 miles per hour. Find Rita 's paddling speed in still water and the speed of the river 's current.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "425",
+    "equation": "(6.0*m)+(3.0*n)+-1.77 = 0, (2.0*m)+(5.0*n)+-1.27 = 0",
+    "question": "Six apples and three oranges cost 1.77 dollars. Two apples and five oranges cost 1.27 dollars. Find the cost of each apple and the cost of an orange.",
+    "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
+  },
+  {
+    "index": "6170",
+    "equation": "(20.0*0.01*m)+(60.0*0.01*n)+(-45.0*80.0*0.01) = 0, -80.0+m+n = 0",
+    "question": "A chemist has two acid solutions. One solution is 20 % pure acid and the other is 60 % pure acid. How much of 20 % pure acid and 60 % pure acid is needed to produce 80 square-centimeters of a solution that is 45 % pure acid?",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3682",
+    "equation": "(7.0*0.01*m)+(4.0*0.01*n)+(-5.0*300.0*0.01) = 0, -300.0+m+n = 0",
+    "question": "A cosmetologist has a bottle of 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution. The cosmetologist needs 300 milliliters of a 5 % hydrogen peroxide solution. Find how many milliliters of each solution the cosmetologist needs to mix together.",
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
+  },
+  {
+    "index": "3285",
+    "equation": "24.0+-10.0+(-2.0*m) = 0",
+    "question": "Mitch is buying candy bars for his friends. He wants to give 2 bars to each friend , and he wants to have 10 spare bars. He can afford to buy 24 candy bars. How many friends can he treat?",
+    "template": "a+-b+(-c*m) = 0"
+  },
+  {
+    "index": "1486",
+    "equation": "(18.0*0.01*m)+(14.0*0.01*n)+-3360.0 = 0, -22000.0+m+n = 0",
+    "question": "Bob invested 22,000 dollars , part at 18 % and part at 14 %. If the total interest at the end of the year is 3,360 dollars , how much did he invest at 18 %?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5538",
+    "equation": "(25.0*0.01*m)+(37.5*0.01*n)+-11.2 = 0, -36.0+m+n = 0",
+    "question": "An airplane begins a flight with a total of 36.0 gallons of fuel stored in two separate wing tanks. During the flight , 25.0 % of the fuel in one tank is used , and in the other tank , 37.5 % of the fuel is used. If the total fuel used is 11.2 gallons , what are the amounts x and y stored in each tank.",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "15",
+    "equation": "(2400.0*m)+(1800.0*n)+-48000.0 = 0, -21.0+m+n = 0",
+    "question": "John is writing an article. The article is limited to 48,000 words. He decides to use two types of font. Large font is 1,800 words per page , small font is 2,400 words per page. He is allowed 21 pages for this article. How many pages are in small font? How many pages are in large font?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "2370",
+    "equation": "-15.0+-m+n = 0, -55.0+m+n = 0",
+    "question": "Find two numbers whose sum is 55 and whose difference is 15.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "2066",
+    "equation": "(2.5*m)+(5.5*n)+-1026.0 = 0, (-2.0*m)+n = 0",
+    "question": "Adult tickets for a show cost 5.50 dollars while children 's tickets cost 2.50 dollars. If there were twice as many adults as children and the total receipts for the show were 1026 dollars. How many adults were at the show?",
+    "template": "(a*m)+(b*n)+-c = 0, (-d*m)+n = 0"
+  },
+  {
+    "index": "2559",
+    "equation": "-30.0+-m+n = 0, -434.0+m+n = 0",
+    "question": "The total number of Democrats and Republicans in the House of Representatives was 434. There were 30 more Republicans then Democrats. How many Democrats and Republicans were there in the Senate?",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "1194",
+    "equation": "(0.75*m)+-1.0+(-0.6667*m) = 0",
+    "question": "Find a number such that 1 more than 0.6667 the number is 0.75 the number.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "6957",
+    "equation": "-177.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "A 177-inch pipe is cut into two pieces. One piece is two times the length of the other. Find the lengths of the two pieces.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "376",
+    "equation": "-5.0+(-3.0*m)+n = 0, -125.0+m+n = 0",
+    "question": "Jack collects baseball and football cards. He has 125 cards total. The number of baseball cards he has is five more than three times the number of football cards. How many baseball and football cards does he have?",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "7032",
+    "equation": "(0.4*m)+-9.0+(-0.25*m) = 0",
+    "question": "Your cell phone company offers two text-messaging plans. Plan A costs 0.25 dollars per text message , plus a monthly fee of 9 dollars. The other plan costs 0.40 dollars per text message with no monthly fee. For how many text messages will both plans cost the same amount?",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "5197",
+    "equation": "(7.5*0.01*m)+(6.0*0.01*n)+-1023.0 = 0, -15000.0+m+n = 0",
+    "question": "A self-employed contractor nearing retirement made two investments totaling 15,000 dollars. In one year , these investments yielded 1023 dollars in simple interest. Part of the money was invested at 6 % and the rest at 7.5 %. How much was invested at each rate?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5286",
+    "equation": "(16000.0*m)+-81000.0+(-7000.0*m) = 0",
+    "question": "Steve invests in a circus production. The coast includes an overhead of 81,000 dollars , plus production costs of 7,000 dollars per performance. A sold-out performance brings in 16,000 dollars , Determine the number of sold-out performances , x , needed to break even.",
+    "template": "(a*m)+-b+(-c*m) = 0"
+  },
+  {
+    "index": "6248",
+    "equation": "-11.0+(-3.0*m)+n = 0, -55.0+m+n = 0",
+    "question": "One number is 11 more than 3 times another number. Their sum is 55. Find the smaller number.",
+    "template": "-a+(-b*m)+n = 0, -c+m+n = 0"
+  },
+  {
+    "index": "5702",
+    "equation": "(4.0*0.01*m)+(5.0*0.01*n)+-380.0 = 0, -8000.0+m+n = 0",
+    "question": "Lisa invested 8000 dollars , part at 4 % and the rest at 5 % per year. How much did she invest at 4 % and 5 % if her total return per year on the investments was 380 dollars?",
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "5480",
+    "equation": "(35.0*m)+(45.0*n)+-630.0 = 0, -16.0+m+n = 0",
+    "question": "An art dealer sold 16 etchings for 630 dollars. He sold some of them at 35 dollars each and the rest at 45 dollars each. How many etchings did he sell at 35 dollars? How many etchings did he sell at 45 dollars?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+  },
+  {
+    "index": "6409",
+    "equation": "-310.0+-m+n = 0, -460.0+m+n = 0",
+    "question": "A plane flying with a tail wind flew at a speed of 460 miles per hour , relative to the ground. When flying against the tailwind , it flew at a speed of 310 miles per hour. Find the speed of the tailwind.",
+    "template": "-a+-m+n = 0, -b+m+n = 0"
+  },
+  {
+    "index": "6227",
+    "equation": "(12.0*m)+(8.0*n)+-1620.0 = 0, -30.0+-m+n = 0",
+    "question": "At Al 's Rent-a-Center , it costs 30 dollars more per month to rent a leather couch than it does to rent a microfiber couch. Pauline rented a leather couch for 8 months and then exchanged it for a microfiber couch , which she rented for 12 months. She paid a total of 1620 dollars to rent these couches. Solve this system of equations to find the monthly rental charge for the leather couch , in dollars. Find the monthly rental charge for the microfiber couch.",
+    "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
+  },
+  {
+    "index": "2481",
+    "equation": "-96.0+m+n = 0, (-2.0*m)+n = 0",
+    "question": "One integer is twice another , and their sum is 96. Find the smaller and larger integer.",
+    "template": "-a+m+n = 0, (-b*m)+n = 0"
+  },
+  {
+    "index": "3734",
+    "equation": "(5.0*m)+(10.0*n)+-200.0 = 0, -30.0+m+n = 0",
+    "question": "Your teacher is giving a test worth 200 points. There is a total of 30 5-point and 10-point questions. How many 5-point questions are on the test?",
+    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
   }
- 
-
 ]

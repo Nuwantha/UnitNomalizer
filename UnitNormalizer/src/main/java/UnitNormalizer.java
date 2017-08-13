@@ -33,9 +33,10 @@ public class UnitNormalizer {
             UnitConverter unitConverter=new UnitConverter();
             Pattern pattern = Pattern.compile("[0-9]+");
 
-            JSONArray jsonArray = (JSONArray) parser.parse(new FileReader("/home/nuwantha/FYP/MyImplementation/UnitNormalizer/src/main/resources/word_prob.json"));
+            JSONArray jsonArray = (JSONArray) parser.parse(new FileReader("/home/nuwantha/FYP/MyImplementation/UnitNomalizer/UnitNormalizer/src/main/resources/word_prob.json"));
+            System.out.println(jsonArray.size());
             JSONArray modifiedJsonArray = unitConverter.createdModifiedJsonArray(jsonArray);
-            FileWriter file = new FileWriter( "/home/nuwantha/FYP/MyImplementation/UnitNormalizer/src/main/resources/word_prob_modified.json",false);
+            FileWriter file = new FileWriter( "/home/nuwantha/FYP/MyImplementation/UnitNomalizer/UnitNormalizer/src/main/resources/word_prob_modified.json",false);
             file.write(modifiedJsonArray.toJSONString());
             file.flush();
 
