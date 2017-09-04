@@ -20,7 +20,7 @@
   {
     "index": "1075",
     "equation": "(0.07*m)+(0.06*n)+-405.0 = 0, -6100.0+m+n = 0",
-    "question": "Bob invested 6100 dollars in 2 funds , which pay 7 % and 6 % simple interest respectively. The combined interest he earned for both funds was 405 dollars for one year. How many dollars was invested at 7 % ? How much was invested at 6 % ?",
+    "question": "Bob invested 6100 dollars in 2 funds , which pay 7 % and 6 % simple interest respectively. The combined interest he earned for both funds was 405 dollars for one year. How many dollars was invested at 7 %? How much was invested at 6 %?",
     "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
   },
   {
@@ -62,7 +62,7 @@
   {
     "index": "6370",
     "equation": "(0.05*m)+(0.07*n)+-630.0 = 0, -10000.0+m+n = 0",
-    "question": "A total of 10000 dollars is invested in 2 funds paying 5 % and 7 % annual interest. The combined annual interest is 630 dollars. How much of the 10000 dollars is invested at 5 %? How much at 7 % ?",
+    "question": "A total of 10,000 dollars is invested in 2 funds paying 5 % and 7 % annual interest. The combined annual interest is 630 dollars. How much of the 10,000 dollars is invested at 5 %? How much at 7 %?",
     "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
   },
   {
@@ -139,7 +139,7 @@
   },
   {
     "index": "1444",
-    "equation": "(0.02*m)+(0.27*n)+(-0.249*100.0) = 0, -100.0+m+n = 0",
+    "equation": "(0.2*m)+(0.27*n)+(-0.249*100.0) = 0, -100.0+m+n = 0",
     "question": "Anne and Nancy use a metal alloy that is 24.9 % copper to make jewelry. How many ounces of a 20 % alloy must be mixed with a 27 % alloy to form 100 ounces of the desired alloy?",
     "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
   },
@@ -157,7 +157,7 @@
   },
   {
     "index": "5454",
-    "equation": "(2.0*m)+(-3.0*n) = 0, -15000.0+m+n = 0",
+    "equation": "(2.0*m)+(-3.0*n) = 0, -250.0+m+n = 0",
     "question": "Kay spends 250 minutes per week exercising. Her ratio of time spent on aerobics to time spent on weight training is 3 to 2. How many minutes per week does she spend on aerobics? How many minutes per week does she spend on weight training?",
     "template": "(a*m)+(-b*n) = 0, -c+m+n = 0"
   },
@@ -277,7 +277,7 @@
   },
   {
     "index": "5191",
-    "equation": "(0.6*m)+(0.9*n)+-32.4 = 0, -180000.0+m+n = 0",
+    "equation": "(0.6*m)+(0.9*n)+-32.4 = 0, -50.0+m+n = 0",
     "question": "A worker gets 60 cents an hour for ordinary time and 90 cents an hour for overtime. If she gets 32.40 dollars for a 50 hour week , how many hours are overtime?",
     "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
   },
@@ -457,7 +457,7 @@
   },
   {
     "index": "2517",
-    "equation": "(0.01*m)+(0.05*n)+-22.5 = 0, -400.0+m+n = 0",
+    "equation": "(0.1*m)+(0.05*n)+-22.5 = 0, -400.0+m+n = 0",
     "question": "Colored copies cost 10 cents per copy and white copies cost 5 cents per copy. Sandy made 400 copies , some of which were colored and the rest white. Her total bill was 22.50 dollars. How many colored copies and white copies did she make?",
     "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
   },
@@ -469,7 +469,7 @@
   },
   {
     "index": "2010",
-    "equation": "(0.02*m)+(0.25*n)+-220.0 = 0, -1000.0+m+n = 0",
+    "equation": "(0.2*m)+(0.25*n)+-220.0 = 0, -1000.0+m+n = 0",
     "question": "At its Grand Opening , the Guthrie Market distributed two different types of souvenirs. One type cost 20 cents each , and the other type cost 25 cents each. One thousand souvenirs were distributed in all. If the cost of these souvenirs was 220 dollars. How many of 20 cents and 25 cents souveniers were distributed?",
     "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
   },
@@ -775,7 +775,7 @@
   },
   {
     "index": "1658",
-    "equation": "(7200.0*m)+(10800.0*n)+-252000.0 = 0, (14400.0*m)+(3600.0*n)+-244000.0 = 0",
+    "equation": "(2.0*m)+(3.0*n)+-252.0 = 0, (4.0*m)+(1.0*n)+-244.0 = 0",
     "question": "A motorist drove 2 hours at one speed and then for 3 hours at another speed. He covered a distance of 252 kilometers. If he had travelled 4 hours at the first speed and 1 hour at the second speed , he would have covered 244 kilometers. Find two speeds?",
     "template": "(a*m)+(b*n)+-c = 0, (d*m)+(e*n)+-f = 0"
   },
@@ -793,7 +793,7 @@
   },
   {
     "index": "972",
-    "equation": "(-0.84/12.0)+m = 0",
+    "equation": "(-84.0/12.0)+m = 0",
     "question": "A 12 ounce can of cranberry juice sells for 84 cents. Give the unit cost in cents per ounce.",
     "template": "(-a/b)+m = 0"
   },
@@ -853,7 +853,7 @@
   },
   {
     "index": "5829",
-    "equation": "(14400.0*(-m+n))+-26000.0 = 0, (7200.0*(m+n))+-26000.0 = 0",
+    "equation": "(4.0*(-m+n))+-26.0 = 0, (2.0*(m+n))+-26.0 = 0",
     "question": "Rowan can row 26 kilometers downstream in 2 hours. Returning upstream it takes 4 hours to complete the trip. Find his rate in still water in kilometers per hour and the rate of the current.",
     "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
   },
@@ -931,8 +931,8 @@
   },
   {
     "index": "7056",
-    "equation": "(18000.0*m)+(18000.0*n)+-2000.0 = 0, -0.04+-m+n = 0",
-    "question": "Two planes start from Chicago at the same time and fly in opposite directions , one averaging a speed of 0.04 miles per second greater than the other. If they are 2000 miles apart after 5 hours , find their average speeds.",
+    "equation": "(5.0*m)+(5.0*n)+-2000.0 = 0, -40.0+-m+n = 0",
+    "question": "Two planes start from Chicago at the same time and fly in opposite directions , one averaging a speed of 40 miles per hour greater than the other. If they are 2000 miles apart after 5 hours , find their average speeds.",
     "template": "(a*m)+(a*n)+-b = 0, -c+-m+n = 0"
   },
   {
@@ -973,7 +973,7 @@
   },
   {
     "index": "1890",
-    "equation": "-3.048+m+n = 0, (-2.0*m)+n = 0",
+    "equation": "-120.0+m+n = 0, (-2.0*m)+n = 0",
     "question": "The 6th graders from an elementary school are going to celebrate the end of the year by going to the local pizza parlor. There are 120 in the whole group and there are twice as many children as adults in the group. How many children are there?",
     "template": "-a+m+n = 0, (-b*m)+n = 0"
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "index": "2500",
-    "equation": "(14400.0*(-m+n))+-900.0 = 0, (10800.0*(m+n))+-900.0 = 0",
+    "equation": "(4.0*(-m+n))+-900.0 = 0, (3.0*(m+n))+-900.0 = 0",
     "question": "A plane flies 900 miles with a tail wind in 3 hours. The same plane takes 4 hours to make the return trip against the wind. What is the speed of the plane in still air?",
     "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
   },
@@ -1477,7 +1477,7 @@
   },
   {
     "index": "6118",
-    "equation": "(18000.0*(-m+n))+-2000.0 = 0, (14400.0*(m+n))+-2000.0 = 0",
+    "equation": "(5.0*(-m+n))+-2000.0 = 0, (4.0*(m+n))+-2000.0 = 0",
     "question": "With a tail wind , a jet flew 2000 miles in 4 hours. The jet 's return trip against the same wind required 5 hours. Find the jet 's speed and the wind speed.",
     "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
   },
@@ -1507,7 +1507,7 @@
   },
   {
     "index": "5206",
-    "equation": "(-715000.0/39600.0)+m = 0",
+    "equation": "(-715.0/11.0)+m = 0",
     "question": "A car traveled 715 kilometers in 11 hours. What was its average speed?",
     "template": "(-a/b)+m = 0"
   },
@@ -1585,7 +1585,7 @@
   },
   {
     "index": "6672",
-    "equation": "-0.6+-m+n = 0, -0.7+m+n = 0",
+    "equation": "-60.0+-m+n = 0, -70.0+m+n = 0",
     "question": "A peach and a apple cost 70 cents. The peach is more expensive than the apple by 60 cents. What is the cost a peach , in cents? What is the cost of an apple , in cents?",
     "template": "-a+-m+n = 0, -b+m+n = 0"
   },
@@ -1670,7 +1670,7 @@
   {
     "index": "1945",
     "equation": "(40.0*m)+-32.0 = 0, (-35.0*m)+n = 0",
-    "question": "According to Dr. Aaron R. Folsom of the University of Minnesota School of Public Health , your maximum ideal waist size is directly proportional to your hip size. For a woman with 40 inches hips , the maximum ideal waist size is 32 inches. What is the maximum waist size for a woman with 35 inches hips?",
+    "question": "According to Dr. Aaron R. Folsom of the University of Minnesota School of Public Health , your maximum ideal waist size is directly proportional to your hip size. For a woman with 40 inch hips , the maximum ideal waist size is 32 inches. What is the maximum waist size for a woman with 35 inch hips?",
     "template": "(a*m)+-b = 0, (-c*m)+n = 0"
   },
   {
@@ -1759,7 +1759,7 @@
   },
   {
     "index": "313",
-    "equation": "(18000.0*(-m+n))+-45.0 = 0, (10800.0*(m+n))+-45.0 = 0",
+    "equation": "(5.0*(-m+n))+-45.0 = 0, (3.0*(m+n))+-45.0 = 0",
     "question": "A boat travels 45 miles upstream in 5 hours. The boat travels the same distance downstream in 3 hours. What is the speed of the boat in still water in miles per hour? What is the speed of the current in miles per hour?",
     "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
   },
@@ -2035,7 +2035,7 @@
   },
   {
     "index": "2596",
-    "equation": "(3.0*m)+(2.0*n)+-6.25 = 0, -0.0025+-m+n = 0",
+    "equation": "(3.0*m)+(2.0*n)+-6.25 = 0, -0.25+-m+n = 0",
     "question": "David bought 3 hamburgers and 2 servings of french fries at Diane 's Drive Up for 6.25 dollars. If a serving of fries costs 0.25 cents more then a hamburger , what is the cost of a hamburger and what is the cost of a serving of french fries?",
     "template": "(a*m)+(b*n)+-c = 0, -d+-m+n = 0"
   },
@@ -2155,9 +2155,9 @@
   },
   {
     "index": "2584",
-    "equation": "(0.06*m)+(0.09*n)+-189.0 = 0, -2400.0+m+n = 0",
+    "equation": "(6.0*0.01*m)+(9.0*0.01*n)+-189.0 = 0, -2400.0+m+n = 0",
     "question": "A person wishes to invest 2,400.00 dollars , part at 9 % and part at 6 %. If the total interest desired at the end of the year is 189.00 dollars , how much should be invested at each rate?",
-    "template": "(a*m)+(b*n)+-c = 0, -d+m+n = 0"
+    "template": "(a*0.01*m)+(b*0.01*n)+-c = 0, -d+m+n = 0"
   },
   {
     "index": "371",
@@ -2257,7 +2257,7 @@
   },
   {
     "index": "6505",
-    "equation": "-1.7526+m+n = 0, (-2.0*m)+n = 0",
+    "equation": "-69.0+m+n = 0, (-2.0*m)+n = 0",
     "question": "A 69 inch board is cut into 2 pieces. One piece is 2 times the length of the other. What is the length of the shorter piece , in inches? What is the length of the longer piece?",
     "template": "-a+m+n = 0, (-b*m)+n = 0"
   },
@@ -2311,7 +2311,7 @@
   },
   {
     "index": "6853",
-    "equation": "(36000.0*(-m+n))+-4000.0 = 0, (28800*(m+n))+-4000.0 = 0",
+    "equation": "(10.0*(-m+n))+-4000.0 = 0, (8.0*(m+n))+-4000.0 = 0",
     "question": "A direct flight on delta air lines from Atlanta to Paris is 4000 miles and takes approximately 8 hours going East and 10 hours going West. Although the plane averages the same airspeed , there is a headwind while traveling East , resulting in a different air speeds. What is the average air speed of the plane in miles per hour and the average wind speed?",
     "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
   },
@@ -2323,7 +2323,7 @@
   },
   {
     "index": "2222",
-    "equation": "(7200.0*(-m+n))+-780.0 = 0, (5400.0*(m+n))+-780.0 = 0",
+    "equation": "(2.0*(-m+n))+-780.0 = 0, (1.5*(m+n))+-780.0 = 0",
     "question": "Dave and Sandy fly from Philly to Chicago , it takes 2 hours to go West and 1.5 hours to fly East. The trip is 780 miles one way. If the wind speed is the same on each trip , find the speed of the wind and find the speed of the plane in the still air , in miles per hour.",
     "template": "(a*(-m+n))+-b = 0, (c*(m+n))+-b = 0"
   },
@@ -2545,9 +2545,9 @@
   },
   {
     "index": "1035",
-    "equation": "1500.0+-1250.0+(-0.05*m) = 0",
+    "equation": "1500.0+-1250.0+(-5.0*0.01*m) = 0",
     "question": "Jordan 's salary is 1250 dollars a month plus a 5 % commission on all of his sales. What must the amount of his sales be , in dollars , for him to earn at least 1500 dollars each month?",
-    "template": "a+-b+(-c*m) = 0"
+    "template": "a+-b+(-c*0.01*m) = 0"
   },
   {
     "index": "6546",
@@ -2569,9 +2569,9 @@
   },
   {
     "index": "1669",
-    "equation": "(0.4*m)+(0.85*n)+(-0.6*1800.0) = 0, -1800.0+m+n = 0",
+    "equation": "(40.0*0.01*m)+(85.0*0.01*n)+(-60.0*1800.0*0.01) = 0, -1800.0+m+n = 0",
     "question": "A 40 % sugar solution is added to an 85 % sugar solution to create 1800 milliliters of a 60 % solution. How many milliliters of the 40 % solution should be used? How many millileters of the 85 % solution?",
-    "template": "(a*m)+(b*n)+(-c*d) = 0, -d+m+n = 0"
+    "template": "(a*0.01*m)+(b*0.01*n)+(-c*d*0.01) = 0, -d+m+n = 0"
   },
   {
     "index": "1404",
@@ -2623,7 +2623,7 @@
   },
   {
     "index": "2849",
-    "equation": "(-500.0/360.0)+m = 0",
+    "equation": "(-500.0/6.0)+m = 0",
     "question": "It took me 6 minutes to walk 500 meters. How fast was I travelling?",
     "template": "(-a/b)+m = 0"
   },

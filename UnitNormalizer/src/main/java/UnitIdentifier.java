@@ -14,11 +14,11 @@ public class UnitIdentifier {
 
 
     public Unit getBaseUnit(Unit unit){
-        if(Arrays.asList(timeUnit).contains(unit.getName())){
-            return OM.SecondTime;
-        }else if(Arrays.asList(lengthUnit).contains(unit.getSymbol())){
-            return OM.Metre;
-        }else if(Arrays.asList(finantialUnit).contains(unit.getName())){
+//        if(Arrays.asList(timeUnit).contains(unit.getName())){
+//            return OM.SecondTime;
+//        }else if(Arrays.asList(lengthUnit).contains(unit.getSymbol())){
+//            return OM.Metre;
+        if(Arrays.asList(finantialUnit).contains(unit.getName())){
             return OM.UnitedStatesDollar;
         }
 
